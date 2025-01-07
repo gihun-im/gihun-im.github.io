@@ -3,10 +3,15 @@
     "listing": "/projects.html",
     "items": [
       "/projects/HRT/index.html",
+      "/projects/HRT.html",
       "/projects/LGBTQ+_COVID-19/index.html",
+      "/projects/Korean_LGBTQ+_COVID-19.html",
+      "/projects/affirmative_practice_LGBTQ+.html",
       "/projects/affirmative_prac_LGBTQ+/index.html",
+      "/projects/cross_PWT_decentedu.html",
       "/projects/PWT_decentedu/index.html",
-      "/projects/PWT_LGBTQ+/index.html"
+      "/projects/PWT_LGBTQ+/index.html",
+      "/projects/cross_PWT_LGBTQ+.html"
     ]
   },
   {
