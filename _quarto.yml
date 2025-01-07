@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "GKI"
+  title: "Gihun Im"
   site-url: https://gihun-im.github.io
   description: "A personal academic website by Gihun Im"
   page-footer: "&copy; []{#current-year} Gihun Im. Powered by [Quarto](https://quarto.org)."

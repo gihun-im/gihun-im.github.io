@@ -5,7 +5,7 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>GKI</title>
+<title>Gihun Im</title>
 <link>https://gihun-im.github.io/projects.html</link>
 <atom:link href="https://gihun-im.github.io/projects.xml" rel="self" type="application/rss+xml"/>
 <description>A personal academic website by Gihun Im</description>
