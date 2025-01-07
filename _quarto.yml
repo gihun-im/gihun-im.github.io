@@ -18,7 +18,7 @@ website:
       - text: Publications
         href: publications.qmd
       - text: CV
-        href: "assets/pdfs/cv.pdf"
+        href: assets/pdfs/cv.pdf
       - text: "{{< iconify fa6-solid:envelope >}}"
         href: "mailto:gihun.im@icloud.com"
       - text: "{{< iconify fa6-brands:bluesky >}}"

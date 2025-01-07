@@ -4,7 +4,7 @@ author: "Kim, D., Park, J., Lee, J., Park, I., & Im, G."
 year: "2023"
 publication: "Studies on Korean Youth"
 doi: "https://doi.org/10.14816/sky.2023.34.4.143"
-pdf: "assets/pdfs/dkim2023.pdf"
+pdf: assets/pdfs/dkim2023.pdf
 toc: false
 categories:
   - Article
