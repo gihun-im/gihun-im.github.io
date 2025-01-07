@@ -1,0 +1,26 @@
+```{=html}
+<ul class="pub-list list">
+<% for (const publication of items) { %>
+  <li <%= metadataAttrs(publication) %>>
+    <div class="listing-title lead" style="margin-bottom: 2px"><%= publication.title %></div>
+    <span class="listing-author">
+      <% 
+        const authorsString = publication.author;
+        const boldedAuthor = "Im, G.";
+        const formattedAuthors = authorsString.includes(boldedAuthor)
+          ? authorsString.replace(boldedAuthor, `<b>${boldedAuthor}</b>`)
+          : authorsString;
+      %>
+      <%= formattedAuthors %>
+    </span> 
+    (<%= publication.year %>)<br />
+    <span class="listing-publication fst-italic"><%= publication.publication %></span><br />
+    <div class="buttons" style="margin-top: 10px; margin-bottom: 24px">
+      <a href="<%= publication.path %>" class="btn btn-secondary btn-sm">VIEW</a>
+      <% if (publication.doi) { %><a href="<%= publication.doi %>" class="btn btn-dark btn-sm" target="_blank" rel="noopener noreferrer">DOI</a><% } %>
+      <% if (publication.pdf) { %><a href="<%= publication.pdf %>" class="btn btn-dark btn-sm" target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-pdf"></i> PDF</a><% } %>
+    </div>
+  </li>
+<% } %>
+</ul>
+```

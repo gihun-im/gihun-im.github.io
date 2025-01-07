@@ -1,0 +1,22 @@
+---
+title: ...
+date: "YYYY-MM"
+author: "Ongoing/Finished"
+date-format: "MMM YYYY"
+published-title: "started"
+author-title: "state"
+description: ...
+categories: 
+  - ...
+  - ...
+format: html
+editor: visual
+---
+
+::: {.callout-note appearance = "simple"}
+
+## Related Works
+
+- 
+
+:::

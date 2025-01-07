@@ -1,0 +1,21 @@
+---
+title: "📑 Publications"
+toc: false
+listing:
+  - id: pubs
+    contents: "pubs/*.qmd"
+    template: ./ejs/pubs.ejs
+    categories: true
+    sort:
+      - "year desc"
+      - "title"
+    page-size: 10
+    field-display-names: 
+      publication: "Publication"
+      year: "Year"
+---
+
+Feel free to explore my works on the [Google Scholar](https://scholar.google.com/citations?user=TgdOb8MAAAAJ) page.
+
+:::{#pubs}
+:::

@@ -1,0 +1,21 @@
+---
+title: "🧑‍💻 Projects"
+listing:
+  contents: projects
+  sort: 
+    - "author desc"
+    - "date desc"
+    - "title"
+  type: default
+  date-format: "MMM YYYY"
+  categories: unnumbered
+  sort-ui: false
+  filter-ui: false
+  feed: true
+  max-items: 6
+  field-display-names:
+    title: "Project"
+    date: "Started"
+    author: "State"
+title-block-banner: false
+---

@@ -1,0 +1,24 @@
+---
+title: "Impact of debate participation in international youth exchange programs on global citizenship: Mediating role of multicultural competence"
+author: "Kim, D., Park, J., Im, G., & Chung, G."
+year: "under review"
+publication: "Journal of Education & Culture"
+doi: ""
+pdf: 
+toc: false
+categories:
+  - Article
+  - KCI
+---
+
+::: {.callout-note appearance = "simple"}
+
+## Citation (APA 7th)
+
+Kim, D., Park, J., Im, G., & Chung, G. (under review). Impact of debate participation in international youth exchange programs on global citizenship: Mediating role of multicultural competence.
+
+:::
+
+#### Abstract
+
+This study explored the impact of participation in debate activities within international youth exchange programs on global citizenship, focusing on the mediating role of multicultural competence. To this end, we collected and analyzed data using responses from 75 participants across 41 countries who completed pre- and post-program surveys. Correlation analysis was followed by mediation analysis, with sensitivity analysis performed to assess the robustness of the mediation effect. Key findings are as follows. First, multicultural competence partially mediated the relationship between debate participation and global citizenship. Second, sensitivity analysis shows that the direct effect is robust, while the indirect effect is sensitive to omitted confounders. The findings provide insights into the role of debate activities in fostering global citizenship. Finally, we discussed the implications, limitations, and directions for future research.

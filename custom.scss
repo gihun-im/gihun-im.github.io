@@ -1,0 +1,15 @@
+/*-- scss:defaults --*/
+
+$link-hover-color: #54B98F !default;
+
+/*-- scss:rules --*/
+
+// Navbar
+
+.nav-footer a {
+  text-decoration: none;
+}
+
+.nav-footer a:hover {
+  color: #797979;
+}

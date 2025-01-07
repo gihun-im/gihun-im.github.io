@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Gihun Im"
+  description: "A personal academic website by Gihun Im"
+  page-footer: "&copy; []{#current-year} Gihun Im. Powered by [Quarto](https://quarto.org)."
+  navbar:
+    background: dark
+    search: false
+    right:
+      - text: About
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: CV
+        href: cv.qmd
+      - text: "{{< iconify fa6-solid:envelope >}}"
+        href: "mailto:gihun.im@icloud.com"
+      - text: "{{< iconify fa6-brands:bluesky >}}"
+        href: "https://bsky.app/profile/gihun-im.bsky.social"
+      - text: "{{< iconify fa6-brands:linkedin >}}"
+        href: "https://www.linkedin.com/in/gihun-im-7a2367210/"
+      - text: "{{< iconify fa6-brands:github-alt>}}"
+        href: "https://github.com/gihun-im"
+
+format:
+  html:
+    theme: 
+      - darkly
+      - custom.scss
+    mainfont: "Helvetica Neue"
+    fontcolor: "#ebebeb"
+    linkcolor: "#70CCAE"
+    toc: false
+    include-after-body:
+      - text: |
+          <script type="text/javascript">
+            document.getElementById('current-year').textContent = new Date().getFullYear();
+          </script>
+
+editor: visual
+

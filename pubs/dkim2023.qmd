@@ -1,0 +1,24 @@
+---
+title: "Exploring subjects of standardized curriculum for youth counselors in South Korea by Delphi method"
+author: "Kim, D., Park, J., Lee, J., Park, I., & Im, G."
+year: "2023"
+publication: "Studies on Korean Youth"
+doi: "https://doi.org/10.14816/sky.2023.34.4.143"
+pdf: /assets/pdfs/dkim2024.pdf
+toc: false
+categories:
+  - Article
+  - KCI
+---
+
+::: {.callout-note appearance = "simple"}
+
+## Citation (APA 7th)
+
+Kim, D., Park, J., Lee, J., Park, I., & Im, G. (2023). Exploring subjects of standardized curriculum for youth counselors in South Korea by Delphi method. *Studies on Korean Youth*, *34*(4), 143-164.
+
+:::
+
+#### Abstract
+
+This study explored alternatives to improve the curriculm for training youth counselors and providing effective interventions for at-risk youth. Our research specifically focused on suggesting the subjects of a standardized curriculum for youth counselors by analyzing previous studies and the opinions of practitioners in the field. To identify the subjects of the curriculum, we first implemented a needs assessment to gather the opinions of professors and practitioners. We then developed a standardized curriculum with five sections and subjects based on analyzing previous studies and the needs assessment. We employed the Delphi method to determine the final curriculum by modifying eligibility criteria, syllabus components, and youth counselors' competencies. Finally, we discussed the implications of these findings relative to the systematic application of the curriculum.
