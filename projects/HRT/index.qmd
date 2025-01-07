@@ -22,7 +22,7 @@ Research has identified multiple barriers to accessing HRT/GAC. These barriers i
 
 [^1]: Andersen, R. M. (1995). Revisiting the behavioral model and access to medical care: Does it matter?. *Journal of Health and Social Behavior*, *36*(1), 1-10.
 
-[^2]: Gelberg, L., Andersen, R. M., & Leake, B. D. (2000) The behavioral model for vulnerable populations: Application to medical care use and outcomes for homeless people. *Health Services Research*, *34*(6), 1273-1302.
+[^2]: Gelberg, L., Andersen, R. M., & Leake, B. D. (2000). The behavioral model for vulnerable populations: Application to medical care use and outcomes for homeless people. *Health Services Research*, *34*(6), 1273-1302.
 
 ![The behavioral model for vulnerable populations (Gelberg et al., 2000)](andersen.png){style="text-align: center"}
 
