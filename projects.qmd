@@ -1,7 +1,7 @@
 ---
 title: "🧑‍💻 Projects"
 listing:
-  contents: projects
+  contents: "projects/**/index.qmd"
   sort: 
     - "author desc"
     - "date desc"

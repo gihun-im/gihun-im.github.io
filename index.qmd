@@ -5,7 +5,7 @@ subtitle: >
   Pronunciation: "Ghee-hoon Eem"
 about:
   template: solana
-  image: /assets/images/prof_pic.jpg
+  image: "assets/images/prof_pic.jpg"
   image-width: 12em
   image-shape: round
 filters:

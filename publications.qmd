@@ -4,7 +4,7 @@ toc: false
 listing:
   - id: pubs
     contents: "pubs/*.qmd"
-    template: ./ejs/pubs.ejs
+    template: "ejs/pubs.ejs"
     categories: true
     sort:
       - "year desc"

@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Gihun Im"
+  site-url: https://gihun-im.github.io
   description: "A personal academic website by Gihun Im"
   page-footer: "&copy; []{#current-year} Gihun Im. Powered by [Quarto](https://quarto.org)."
   navbar:
@@ -26,6 +27,7 @@ website:
         href: "https://www.linkedin.com/in/gihun-im-7a2367210/"
       - text: "{{< iconify fa6-brands:github-alt>}}"
         href: "https://github.com/gihun-im"
+    google-analytics: "G-Z60BZ0KHGW"
 
 format:
   html:
