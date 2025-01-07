@@ -48,42 +48,6 @@
   <pubDate>Sun, 01 Sep 2024 05:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>HRT/GAC Access</title>
-  <dc:creator>Ongoing </dc:creator>
-  <link>https://gihun-im.github.io/projects/HRT.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Hormone Replacement Therapy (HRT) is a critical component of <a href="https://opa.hhs.gov/sites/default/files/2022-03/gender-affirming-care-young-people-march-2022.pdf">Gender-Affirming Care (GAC)</a>. Despite a growing demand for HRT and GAC in recent years, these services are often insufficiently covered by insurance. Additionally, a significant proportion of gender diverse adults remain uninsured, further restricting access.</p>
-<p>Research has identified multiple barriers to accessing HRT/GAC. These barriers include both direct and indirect costs, such as out-of-pocket expenses and supplementary costs associated with obtaining care. Other reported challenges include a lack of quality care availability, fear of provider discrimination, and prior negative healthcare experiences.</p>
-<p><a href="https://www.jstor.org/stable/2137284">Andersen’s (1995)</a><sup>1</sup> model explains healthcare utilization patterns through the interplay of environmental and personal factors, perceived and objective needs, and enabling resources. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1089079/">Gelberg et al.&nbsp;(2000)</a><sup>2</sup> later expanded this framework to account for factors unique to vulnerable populations.</p>
-<div class="quarto-figure quarto-figure-center" style="text-align: center">
-<figure class="figure">
-<p><img src="https://gihun-im.github.io/assets/images/andersen.png" class="img-fluid figure-img"></p>
-<figcaption>The behavioral model for vulnerable populations (Gelberg et al., 2000)</figcaption>
-</figure>
-</div>
-<p>Existing studies have documented barriers faced by gender-diverse adults in accessing HRT/GAC, but most have relied on qualitative methods. While these studies provide valuable insights, their findings lack confirmation through broader quantitative approaches. Additionally, the majority of participants in these studies were White, limiting the exploration of predisposing factors such as race and disability. To address these gaps, this project will examine the relationships among HRT access, financial trade-offs, and perceptions of safety and discrimination in a diverse sample of gender diverse people.</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Andersen, R. M. (1995). Revisiting the behavioral model and access to medical care: Does it matter?. <em>Journal of Health and Social Behavior</em>, <em>36</em>(1), 1-10.↩︎</p></li>
-<li id="fn2"><p>Gelberg, L., Andersen, R. M., &amp; Leake, B. D. (2000) The behavioral model for vulnerable populations: Application to medical care use and outcomes for homeless people. <em>Health Services Research</em>, <em>34</em>(6), 1273-1302.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>Affirmative Therapy</category>
-  <category>Gender Affirming Care</category>
-  <category>LGBTQ+</category>
-  <guid>https://gihun-im.github.io/projects/HRT.html</guid>
-  <pubDate>Sun, 01 Sep 2024 05:00:00 GMT</pubDate>
-</item>
-<item>
   <title>Minority Stressors and Protective Factors of LGBTQ+ People During COVID-19 Pandemic</title>
   <dc:creator>Ongoing </dc:creator>
   <link>https://gihun-im.github.io/projects/LGBTQ+_COVID-19/</link>
@@ -144,131 +108,6 @@ Related Works
   <category>Minority Stress</category>
   <guid>https://gihun-im.github.io/projects/LGBTQ+_COVID-19/</guid>
   <pubDate>Sat, 01 Jun 2024 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Minority Stressors and Protective Factors of LGBTQ+ People During COVID-19 Pandemic</title>
-  <dc:creator>Ongoing </dc:creator>
-  <link>https://gihun-im.github.io/projects/Korean_LGBTQ+_COVID-19.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<div class="callout callout-style-simple callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Award Alert!
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>This project was awarded the <strong>Mary Bywater Cross and Robert P. Newman Research Award</strong> by the University of Iowa College of Education in 2024.</p>
-</div>
-</div>
-<p>In May 2021, during early phase of the COVID-19 pandemic in South Korea, a news outlet publicly identified a COVID-19 patient as a “gay man” who visited gay clubs in Itaewon, disclosing personal details. This led to significant online hate against the LGBTQ+ community, heightening fear of contracting COVID-19 within this group. Using the Minority Stress Model (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2072932/">Meyer, 2003</a>)<sup>1</sup>, this project investigates how <strong>minority stressors</strong>, such as the perceived threat of COVID-19, affect contextual factors like internalized stigma and contribute to mental health outcomes among LGBTQ+ people. Also, I aim to examine the moderating role of <strong>protective factors</strong>, such as community connectedness, in these relationships.</p>
-<div class="quarto-figure quarto-figure-center" style="text-align: center">
-<figure class="figure">
-<p><img src="https://gihun-im.github.io/assets/images/dawoom.png" class="img-fluid figure-img" width="400"></p>
-<figcaption>2021 Youth LGBTQ+ People’s Social Needs and Status Survey (Jeong et al., 2021)</figcaption>
-</figure>
-</div>
-<p>I will use data from the <em>2021 Youth LGBTQ+ People’s Social Needs and Status Survey</em> (<a href="https://www.dawoom-t4c.org/397d4ebb-6ad4-4525-9b71-9706f13a5e8b">Jeong et al., 2021</a>)<sup>2</sup>, which surveyed 3,911 LGBTQ+ people aged 19-34 in South Korea. For analysis, I will use SPSS 27.0, Mplus, and R to test the mediating effects of minority stressors and the moderating effects of protective factors.</p>
-<div class="callout callout-style-simple callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Related Works
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ul>
-<li><strong>Im, G.</strong> (2024, July 19). <em>Relationships between perceived threat of COVID-19, internalized stigma, and depression among LGB people: Focusing on the moderating effects of community connectedness</em>. Paper presented at the 1st Conference of Junior Scholars Network of LGBTIQ Research, Seoul, South Korea.</li>
-</ul>
-</div>
-</div>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Meyer, I. H. (2003). Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations: Conceptual issues and research evidence. <em>Psychological Bulletin</em>, <em>129</em>(5), 674-697.↩︎</p></li>
-<li id="fn2"><p>Jeong, S., Kim, B., Shim, K., &amp; Han, S. (2021). <em>2021 Youth LGBTQ+ People’s Social Needs and Status Survey</em>. Dawoom: Together for Change.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>COVID-19</category>
-  <category>LGBTQ+</category>
-  <category>Minority Stress</category>
-  <guid>https://gihun-im.github.io/projects/Korean_LGBTQ+_COVID-19.html</guid>
-  <pubDate>Sat, 01 Jun 2024 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Relationship Between Decent Work and Decent Education</title>
-  <dc:creator>Finished </dc:creator>
-  <link>https://gihun-im.github.io/projects/cross_PWT_decentedu.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<div class="callout callout-style-simple callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Award Alert!
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>This project was awarded the <strong>Distinguished Student Research Award</strong> by Korea Employment Information Service in 2024.</p>
-</div>
-</div>
-<div class="quarto-figure quarto-figure-center" style="text-align: center">
-<figure class="figure">
-<p><img src="https://gihun-im.github.io/assets/images/decentedu.png" class="img-fluid figure-img" width="600"></p>
-<figcaption>Decent education within PWT model (Duffy et al., 2022)</figcaption>
-</figure>
-</div>
-<p>The recent expanded model of the Psychology of Working Theory (PWT; <a href="https://www.sciencedirect.com/science/article/abs/pii/S0001879122000823">Duffy et al., 2022</a>)<sup>1</sup> incorporates the concept of <strong>decent education</strong> to better understand how education influences career outcomes and overall well-being. Decent education refers not only to formal education but also to skills, training, and learning opportunities that help individuals secure stable and meaningful work. The expanded model highlights that decent education provides individuals with the necessary resources, knowledge, and skills to navigate the job market effectively.</p>
-<p>We applied the expanded model of the PWT to young people in South Korea. The goal was to examine whether the pathways to obtaining decent work, as outlined by the theory, differ between young men and women. Specifically, we investigated whether work volition and career adaptability mediate the relationship between decent education and decent work. We used data from the <em>Youth Panel Survey 2021</em> (<a href="https://survey.keis.or.kr/eng/yp/yp01.jsp">Hwang et al., 2021</a>)<sup>2</sup> and focused on 3,403 Korean young adults currently employed as regular workers (정규직 in Korean). The group included 1,901 women and 1,502 men, with an average age of 25.32 years.</p>
-<p><span style="color: #FFD479;">We are currently preparing for submission based on the analyzed results.</span></p>
-<div class="callout callout-style-simple callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Related Works
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ul>
-<li>Bae, I., &amp; <strong>Im, G.</strong> (in progress). Relationship between decent education and decent work for youth: Mediating effects of work volition and career adaptability.</li>
-<li>Bae, I. (2024, June 5). Relationship between decent education and decent work for youth: Mediating effects of work volition and career adaptability. Paper presented at the 2024 Employment Survey Conference, Seoul, South Korea.</li>
-</ul>
-</div>
-</div>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Duffy, R. D., Kim, H. J., Perez, G., Prieto, C. G., Torgal, C., &amp; Kenny, M. E. (2022). Decent education as a precursor to decent work: An overview and construct conceptualization. <em>Journal of Vocational Behavior</em>, <em>138</em>, 103771.↩︎</p></li>
-<li id="fn2"><p>Hwang, G., Gong, J., Cho, Y., Jung, K., &amp; Cho, C. (2021). <em>Youth Panel Survey 2021</em>. Korea Employment Information Service.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>Career</category>
-  <category>PWT</category>
-  <guid>https://gihun-im.github.io/projects/cross_PWT_decentedu.html</guid>
-  <pubDate>Mon, 01 Jan 2024 06:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Relationship Between Decent Work and Decent Education</title>
@@ -332,42 +171,6 @@ Related Works
   <category>PWT</category>
   <guid>https://gihun-im.github.io/projects/PWT_decentedu/</guid>
   <pubDate>Mon, 01 Jan 2024 06:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Affirmative Practice in LGBTQ+-Neutral Countries</title>
-  <dc:creator>Ongoing </dc:creator>
-  <link>https://gihun-im.github.io/projects/affirmative_practice_LGBTQ+.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><img src="https://gihun-im.github.io/assets/images/ilga_map.png" class="img-fluid" style="text-align: center" alt="Sexual orientation laws in the world (ILGA, 2020)"> This project focuses on the diverse experiences of LGBTQ+ people worldwide and highlights the importance of providing supportive and inclusive psychological care. While some countries have strong legal protections for LGBTQ+ people, others either criminalize LGBTQ+ identities or remain neutral, offering no protections or penalties. South Korea is an example of a <strong>neutral</strong> country where LGBTQ+ rights are not explicitly protected, yet discrimination and societal stigma remain significant challenges.</p>
-<p>In South Korea, negative attitudes toward LGBTQ+ people are common, particularly among conservative and religious groups, despite increasing acceptance among younger generations. There is no <a href="https://en.wikipedia.org/wiki/Anti-discrimination_law">anti-discrimination law</a>, <a href="https://glaad.org/reference/conversion-therapy/">conversion therapy</a> is still practiced, and LGBTQ+ issues are rarely included in psychological research or training programs. These gaps make it difficult for psychologists to offer competent, affirmative care.</p>
-<p>We aim to suggest practical steps for practitioners to create more inclusive and supportive environments. Examples include reflecting on personal biases, seeking professional development, using inclusive language, and integrating frameworks like the minority stress model into practice. We believe that adopting these strategies and advocating for change can help practitioners improve mental health care for LGBTQ+ people, even in regions with limited legal protections.</p>
-<div class="callout callout-style-simple callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Related Works
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ul>
-<li>Koch, J. M., Shin, Y.-J., Lee, J., &amp; Im, G. (2024, July 21-26). <em>Affirmative psychological practice in LGBTQ-neutral countries</em>. Poster presented at the 33rd International Congress of Psychology, Prague, Czech Republic.</li>
-</ul>
-</div>
-</div>
-
-
-
- ]]></description>
-  <category>LGBTQ+</category>
-  <category>Affirmative Therapy</category>
-  <guid>https://gihun-im.github.io/projects/affirmative_practice_LGBTQ+.html</guid>
-  <pubDate>Sat, 01 Oct 2022 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Affirmative Practice in LGBTQ+-Neutral Countries</title>
@@ -447,50 +250,6 @@ Related Works
   <category>LGBTQ+</category>
   <category>PWT</category>
   <guid>https://gihun-im.github.io/projects/PWT_LGBTQ+/</guid>
-  <pubDate>Thu, 01 Sep 2022 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Cross-Cultural Application of PWT to Korean LGB People</title>
-  <dc:creator>Finished </dc:creator>
-  <link>https://gihun-im.github.io/projects/cross_PWT_LGBTQ+.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>The Psychology of Working Theory (PWT; <a href="https://www.drryanduffy.com/uploads/3/1/7/2/31724447/duffy_et_al.__2016__pwt.pdf">Duffy et al., 2016</a>)<sup>1</sup> helps us understand how social and economic factors affect people’s career decisions and job outcomes. It highlights the challenges posed by social marginalization and economic constraints in achieving <strong>decent work</strong>—a type of work that contributes to well-being and access to opportunities.</p>
-<p>In South Korea, LGB people face significant discrimination and marginalization, especially in the workplace. Many experience mistreatment like bullying, intimidation, or even job loss due to their sexual orientation. This discrimination creates additional stress, known as <strong>minority stress</strong>, which can negatively affect both mental health and career outcomes. Despite this, there is limited research on how these experiences impact the work volition of LGB people in South Korea.</p>
-<p>Based on the PWT, we examined how social class and and marginalization influence work volition among LGB people in South Korea. We also explored how factors like social support and positive LGB identity can reduce the negative impact of these challenges.</p>
-<p><span style="color: #FFD479;">Our paper is under review.</span></p>
-<div class="callout callout-style-simple callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Related Works
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ul>
-<li>Ko, J., Park, J., &amp; <strong>Im, G.</strong>, Cheung, S., &amp; Reid-Marks, L. (2024, August 8-10). <em>Social stigma, social status, work volition, social support, and positive identity in LGB college students in Korea</em>. Poster presented at the APA 2024 Convention, Seattle, WA, United States.</li>
-</ul>
-</div>
-</div>
-
-
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Duffy, R. D., Blustein, D. L., Diemer, M. A., &amp; Autin, K. L. (2016). The Psychology of Working Theory. <em>Journal of Counseling Psychology</em>, <em>63</em>(2), 127-148.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>Career</category>
-  <category>LGBTQ+</category>
-  <category>PWT</category>
-  <guid>https://gihun-im.github.io/projects/cross_PWT_LGBTQ+.html</guid>
   <pubDate>Thu, 01 Sep 2022 05:00:00 GMT</pubDate>
 </item>
 </channel>
