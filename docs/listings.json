@@ -1,0 +1,21 @@
+[
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/HRT/index.html",
+      "/projects/LGBTQ+_COVID-19/index.html",
+      "/projects/affirmative_prac_LGBTQ+/index.html",
+      "/projects/PWT_decentedu/index.html",
+      "/projects/PWT_LGBTQ+/index.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/pubs/dkimjpark2024_1.html",
+      "/pubs/im2024.html",
+      "/pubs/dkimjpark2024_2.html",
+      "/pubs/dkim2023.html"
+    ]
+  }
+]
