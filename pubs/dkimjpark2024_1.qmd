@@ -1,6 +1,7 @@
 ---
 title: "Impact of debate participation in international youth exchange programs on global citizenship: Mediating role of multicultural competence"
 author: "Kim, D., Park, J., Im, G., & Chung, G."
+author-title: author(s)
 year: "under review"
 publication: "Journal of Education & Culture"
 doi: ""

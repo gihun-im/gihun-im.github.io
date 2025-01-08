@@ -1,6 +1,7 @@
 ---
 title: "Research on developing a social enrichment program for young adults with Borderline Intellectual Functioning"
 author: "Kim, D., Park, J., & Im, G."
+author-title: author(s)
 year: "under review"
 publication: "Disability & Employment"
 doi: ""

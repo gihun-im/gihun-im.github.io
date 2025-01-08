@@ -1,0 +1,14 @@
+---
+title: "..."
+author: "..."
+author-title: author(s)
+year: "..."
+publication: "..."
+doi: ""
+pdf: 
+toc: false
+categories:
+  - ...
+  - ...
+---
+

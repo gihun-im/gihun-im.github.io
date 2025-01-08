@@ -1,6 +1,7 @@
 ---
 title: "Exploring subjects of standardized curriculum for youth counselors in South Korea by Delphi method"
 author: "Kim, D., Park, J., Lee, J., Park, I., & Im, G."
+author-title: author(s)
 year: "2023"
 publication: "Studies on Korean Youth"
 doi: "https://doi.org/10.14816/sky.2023.34.4.143"

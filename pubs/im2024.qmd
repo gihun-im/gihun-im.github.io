@@ -1,6 +1,7 @@
 ---
 title: "Korean school counselors' counseling competencies and advocacy activities for LGBTQ+ youth: Latent Profile Analysis"
 author: "Im, G., & Kim, D."
+author-title: author(s)
 year: "under review"
 publication: "Current Psychology"
 doi: ""
