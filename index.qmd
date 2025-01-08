@@ -27,7 +27,7 @@ In practice, I am passionate about exploring and discussing the complexities of 
 
 [I strongly believe in the transformative power of both research and practice to help people reclaim their voices and empower themselves.]{color="#FFD479"}
 
-::: {.callout-note appearance = "simple"}
+::: {.callout-tip appearance = "simple"}
 
 ## Contact Me
 
