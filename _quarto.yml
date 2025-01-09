@@ -27,7 +27,7 @@ website:
         href: "https://www.linkedin.com/in/gihun-im-7a2367210/"
       - text: "{{< iconify fa6-brands:github-alt>}}"
         href: "https://github.com/gihun-im"
-    google-analytics: "G-Z60BZ0KHGW"
+  google-analytics: "G-Z60BZ0KHGW"
 
 format:
   html:
