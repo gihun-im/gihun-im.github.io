@@ -15,7 +15,7 @@ listing:
       year: "Year"
 ---
 
-You can also explore my work on my [Google Scholar](https://scholar.google.com/citations?user=TgdOb8MAAAAJ) page.
+You can also explore my work on [Google Scholar](https://scholar.google.com/citations?user=TgdOb8MAAAAJ).
 
 :::{#pubs}
 :::
