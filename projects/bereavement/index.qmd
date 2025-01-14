@@ -1,0 +1,26 @@
+---
+title: LGBTQ+ Partner Loss
+date: "2024-12"
+author: "Ongoing"
+date-format: "MMM YYYY"
+published-title: "started"
+author-title: "state"
+description: In collaboration with EE-MM members
+categories:
+  - Bereavement
+  - LGBTQ+
+format: html
+editor: visual
+filters:
+  - highlight-text
+---
+
+![](grief.jpg){fig-align="center"}
+
+Since the 2015 legalization of same-sex marraige in the U.S., societal and legal shifts have changed the context of LGBTQ+ partner loss. Building on [Bristowe et al.'s (2016)](https://journals.sagepub.com/doi/pdf/10.1177/0269216316634601)[^1] systematic review, we examined reserach on LGBTQ+ bereavement published after 2015.
+
+[^1]: Bristowe, K., Marshall, S., & Harding, R. (2016). The bereavement experiences of lesbian, gay, bisexual and/or trans\* people who have lost a partner: A systematic review, thematic synthesis and modelling of the literature. *Palliative Medicine*, *30*(8), 730-744.
+
+Using [PRISMA guidelines](https://www.prisma-statement.org), we screened 1,656 studies from Psychology Database and PubMed, ultimately including 10 qualitative studies. Thematic analysis identified common bereavement reactions and LGBTQ+-specific experiences. Findings highlight the need for professional education and interventions tailored to the unique grief experiences of LGBTQ+ people, even in an era of increased legal recognition.
+
+[We are currently preparing for submission based on the analyzed results.]{color="#FFD479"}

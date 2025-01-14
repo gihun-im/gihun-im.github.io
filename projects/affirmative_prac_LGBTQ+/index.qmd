@@ -13,7 +13,9 @@ format: html
 editor: visual
 ---
 
-![Sexual orientation laws in the world (ILGA, 2020)](ilga_map.png){style="text-align: center"} This project focuses on the diverse experiences of LGBTQ+ people worldwide and highlights the importance of providing supportive and inclusive psychological care. While some countries have strong legal protections for LGBTQ+ people, others either criminalize LGBTQ+ identities or remain neutral, offering no protections or penalties. South Korea is an example of a **neutral** country where LGBTQ+ rights are not explicitly protected, yet discrimination and societal stigma remain significant challenges.
+![Sexual orientation laws in the world (ILGA, 2020)](ilga_map.png){style="text-align: center" width="656" fig-align="center"} 
+
+This project focuses on the diverse experiences of LGBTQ+ people worldwide and highlights the importance of providing supportive and inclusive psychological care. While some countries have strong legal protections for LGBTQ+ people, others either criminalize LGBTQ+ identities or remain neutral, offering no protections or penalties. South Korea is an example of a **neutral** country where LGBTQ+ rights are not explicitly protected, yet discrimination and societal stigma remain significant challenges.
 
 In South Korea, negative attitudes toward LGBTQ+ people are common, particularly among conservative and religious groups, despite increasing acceptance among younger generations. There is no [anti-discrimination law](https://en.wikipedia.org/wiki/Anti-discrimination_law), [conversion therapy](https://glaad.org/reference/conversion-therapy/) is still practiced, and LGBTQ+ issues are rarely included in psychological research or training programs. These gaps make it difficult for psychologists to offer competent, affirmative care.
 

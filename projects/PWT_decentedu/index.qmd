@@ -23,7 +23,7 @@ This project was awarded the **Distinguished Student Research Award** by Korea E
 
 :::
 
-![Decent education within PWT model (Duffy et al., 2022)](decentedu.png){style="text-align: center" width="600"}
+![Decent education within PWT model (Duffy et al., 2022)](decentedu.png){style="text-align: center" fig-align="center" width="600"}
 
 The recent expanded model of the Psychology of Working Theory (PWT; [Duffy et al., 2022](https://www.sciencedirect.com/science/article/abs/pii/S0001879122000823))[^1] incorporates the concept of **decent education** to better understand how education influences career outcomes and overall well-being. Decent education refers not only to formal education but also to skills, training, and learning opportunities that help individuals secure stable and meaningful work. The expanded model highlights that decent education provides individuals with the necessary resources, knowledge, and skills to navigate the job market effectively.
 

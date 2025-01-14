@@ -26,7 +26,7 @@ In May 2021, during early phase of the COVID-19 pandemic in South Korea, a news 
 
 [^1]: Meyer, I. H. (2003). Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations: Conceptual issues and research evidence. *Psychological Bulletin*, *129*(5), 674-697.
 
-![2021 Youth LGBTQ+ People's Social Needs and Status Survey (Jeong et al., 2021)](dawoom.png){style="text-align: center" width="400"}
+![2021 Youth LGBTQ+ People's Social Needs and Status Survey (Jeong et al., 2021)](dawoom.png){style="text-align: center" fig-align="center" width="400"}
 
 I will use data from the *2021 Youth LGBTQ+ People's Social Needs and Status Survey* ([Jeong et al., 2021](https://www.dawoom-t4c.org/397d4ebb-6ad4-4525-9b71-9706f13a5e8b))[^2], which surveyed 3,911 LGBTQ+ people aged 19-34 in South Korea. For analysis, I will use SPSS 27.0, Mplus, and R to test the mediating effects of minority stressors and the moderating effects of protective factors.
 
