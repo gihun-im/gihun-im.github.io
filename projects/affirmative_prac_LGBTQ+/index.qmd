@@ -6,9 +6,9 @@ date-format: "MMM YYYY"
 published-title: "started"
 author-title: "state"
 description: PI:\ Julie Koch, PhD
-categories: 
-  - LGBTQ+
+categories:
   - Affirmative Therapy
+  - LGBTQ+
 format: html
 editor: visual
 ---
