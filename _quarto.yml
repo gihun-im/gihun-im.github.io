@@ -35,7 +35,7 @@ format:
     theme: 
       - darkly
       - custom.scss
-    mainfont: "Helvetica Neue"
+    mainfont: "Helvetica"
     fontcolor: "#ebebeb"
     linkcolor: "#70CCAE"
     toc: false
