@@ -1,5 +1,5 @@
 ---
-title: Affirmative Practice in LGBTQ+-Neutral Countries
+title: Affirmative Practice in LGBTQ-Neutral Countries
 date: "2022-10"
 author: "Ongoing"
 date-format: "MMM YYYY"

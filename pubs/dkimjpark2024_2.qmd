@@ -2,7 +2,7 @@
 title: "Research on developing a social enrichment program for young adults with Borderline Intellectual Functioning"
 author: "Kim, D., Park, J., & Im, G."
 author-title: author(s)
-year: "under review"
+year: "in press"
 publication: "Disability & Employment"
 doi: ""
 pdf: 
@@ -10,14 +10,14 @@ toc: false
 categories:
   - Article
   - KCI
-  - Under Review
+  - In Press
 ---
 
 ::: {.callout-note appearance = "simple"}
 
 ## Citation (APA 7th)
 
-Kim, D., Park, J., & Im, G. (under review). Research on developing a social enrichment program for young adults with Borderline Intellectual Functioning.
+Kim, D., Park, J., & Im, G. (in press). Research on developing a social enrichment program for young adults with Borderline Intellectual Functioning. *Disability & Employment*.
 
 :::
 
