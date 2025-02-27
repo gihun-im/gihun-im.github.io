@@ -1,26 +1,25 @@
 ---
-title: "Impact of debate participation in international youth exchange programs on global citizenship: Mediating role of multicultural competence"
+title: "Impact of discussion activity in international youth exchange programs on global citizenship: Mediating role of multicultural competence"
 author: "Kim, D., Park, J., Im, G., & Chung, G."
 author-title: author(s)
-year: "in press"
+year: "2025"
 publication: "Journal of Education & Culture"
-doi: ""
+doi: "https://doi.org/10.24159/joec.2025.31.1.597"
 pdf: 
 toc: false
 categories:
   - Article
   - KCI
-  - In Press
 ---
 
 ::: {.callout-note appearance = "simple"}
 
 ## Citation (APA 7th)
 
-Kim, D., Park, J., Im, G., & Chung, G. (under review). Impact of debate participation in international youth exchange programs on global citizenship: Mediating role of multicultural competence. *Journal of Education & Culture*.
+Kim, D., Im, G., & Chung, G., Park, J. (2025). Impact of discussion activity in international youth exchange programs on global citizenship: Mediating role of multicultural competence. *Journal of Education & Culture*, *31*(1), 597-613.
 
 :::
 
 #### Abstract
 
-This study explored the impact of participation in debate activities within international youth exchange programs on global citizenship, focusing on the mediating role of multicultural competence. To this end, we collected and analyzed data using responses from 75 participants across 41 countries who completed pre- and post-program surveys. Correlation analysis was followed by mediation analysis, with sensitivity analysis performed to assess the robustness of the mediation effect. Key findings are as follows. First, multicultural competence partially mediated the relationship between debate participation and global citizenship. Second, sensitivity analysis shows that the direct effect is robust, while the indirect effect is sensitive to omitted confounders. The findings provide insights into the role of debate activities in fostering global citizenship. Finally, we discussed the implications, limitations, and directions for future research.
+This study explored the impact of participation in discussion activities within international youth exchange programs on global citizenship, focusing on the mediating role of multicultural competence. We collected and analyzed data using responses from 75 participants across 41 countries who completed pre- and post-program surveys. Correlation analysis was followed by mediation analysis. Sensitivity analysis was performed to assess the robustness of the mediation effect. The key findings are as follows. First, multicultural competence partially mediated the relationship between discussion activity and global citizenship. Second, sensitivity analysis showed that the direct effect was robust, while the indirect effect was sensitive to omitted confounders. These findings provide insights into the role of discussion activities in fostering global citizenship. Finally, we discussed the implications, limitations, and directions for future research.
