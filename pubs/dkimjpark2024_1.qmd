@@ -1,6 +1,6 @@
 ---
 title: "Impact of discussion activity in international youth exchange programs on global citizenship: Mediating role of multicultural competence"
-author: "Kim, D., Park, J., Im, G., & Chung, G."
+author: "Kim, D., Im, G., Chung, G., & Park, J."
 author-title: author(s)
 year: "2025"
 publication: "Journal of Education & Culture"
@@ -16,7 +16,7 @@ categories:
 
 ## Citation (APA 7th)
 
-Kim, D., Im, G., & Chung, G., Park, J. (2025). Impact of discussion activity in international youth exchange programs on global citizenship: Mediating role of multicultural competence. *Journal of Education & Culture*, *31*(1), 597-613.
+Kim, D., Im, G., Chung, G., & Park, J. (2025). Impact of discussion activity in international youth exchange programs on global citizenship: Mediating role of multicultural competence. *Journal of Education & Culture*, *31*(1), 597-613.
 
 :::
 
