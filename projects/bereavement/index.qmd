@@ -24,3 +24,11 @@ Since the 2015 legalization of same-sex marraige in the U.S., societal and legal
 Using [PRISMA guidelines](https://www.prisma-statement.org), we screened 1,656 studies from Psychology Database and PubMed, ultimately including 10 qualitative studies. Thematic analysis identified common bereavement reactions and LGBTQ+-specific experiences. Findings highlight the need for professional education and interventions tailored to the unique grief experiences of LGBTQ+ people, even in an era of increased legal recognition.
 
 [We are currently preparing for submission based on the analyzed results.]{color="#FFD479"}
+
+::: {.callout-note appearance = "simple"}
+
+## Related Works
+
+-   Kim, J., **Im, G.**, Kim, M., & Kang, S. (2025, August 7-9). *A decade later: Revisiting LGBTQ+ partner loss and bereavement in the post-same-sex marriage era*. Poster accepted at the APA 2025 Convention, Denver, CO, United States.
+
+:::
