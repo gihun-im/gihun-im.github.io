@@ -5,7 +5,7 @@ author-title: author(s)
 year: "2025"
 publication: "Journal of Education & Culture"
 doi: "https://doi.org/10.24159/joec.2025.31.1.597"
-pdf: 
+pdf: assets/pdf/dkim2025_1.pdf
 toc: false
 categories:
   - Article
