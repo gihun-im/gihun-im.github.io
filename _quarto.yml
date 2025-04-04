@@ -23,8 +23,6 @@ website:
         href: assets/pdf/cv_Gihun_Im.pdf
       - text: "{{< iconify fa6-solid:envelope >}}"
         href: "mailto:gihun.im@icloud.com"
-      - text: "{{< iconify fa6-brands:bluesky >}}"
-        href: "https://bsky.app/profile/gihun-im.bsky.social"
       - text: "{{< iconify fa6-brands:linkedin >}}"
         href: "https://www.linkedin.com/in/gihun-im-7a2367210/"
       - text: "{{< iconify fa6-brands:github-alt>}}"
