@@ -10,7 +10,7 @@
 <atom:link href="https://gihun-im.github.io/projects.xml" rel="self" type="application/rss+xml"/>
 <description>A personal academic website by Gihun Im</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Sun, 01 Dec 2024 06:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 30 Nov 2024 15:00:00 GMT</lastBuildDate>
 <item>
   <title>LGBTQ+ Partner Loss</title>
   <dc:creator>Ongoing </dc:creator>
@@ -56,7 +56,7 @@ Related Works
   <category>Bereavement</category>
   <category>LGBTQ+</category>
   <guid>https://gihun-im.github.io/projects/bereavement/</guid>
-  <pubDate>Sun, 01 Dec 2024 06:00:00 GMT</pubDate>
+  <pubDate>Sat, 30 Nov 2024 15:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Minority Stressors and Protective Factors of LGBTQ+ People During COVID-19 Pandemic</title>
@@ -118,7 +118,7 @@ Related Works
   <category>LGBTQ+</category>
   <category>Minority Stress</category>
   <guid>https://gihun-im.github.io/projects/LGBTQ+_COVID-19/</guid>
-  <pubDate>Sat, 01 Jun 2024 05:00:00 GMT</pubDate>
+  <pubDate>Fri, 31 May 2024 15:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Relationship Between Decent Work and Decent Education</title>
@@ -181,49 +181,7 @@ Related Works
   <category>Career</category>
   <category>PWT</category>
   <guid>https://gihun-im.github.io/projects/PWT_decentedu/</guid>
-  <pubDate>Mon, 01 Jan 2024 06:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Affirmative Practice in LGBTQ-Neutral Countries</title>
-  <dc:creator>Ongoing </dc:creator>
-  <link>https://gihun-im.github.io/projects/affirmative_prac_LGBTQ+/</link>
-  <description><![CDATA[ 
-
-
-
-
-<div class="quarto-figure quarto-figure-center" style="text-align: center">
-<figure class="figure">
-<p><img src="https://gihun-im.github.io/projects/affirmative_prac_LGBTQ+/ilga_map.png" class="img-fluid figure-img" width="656"></p>
-<figcaption>Sexual orientation laws in the world (ILGA, 2020)</figcaption>
-</figure>
-</div>
-<p>This project focuses on the diverse experiences of LGBTQ+ people worldwide and highlights the importance of providing supportive and inclusive psychological care. While some countries have strong legal protections for LGBTQ+ people, others either criminalize LGBTQ+ identities or remain neutral, offering no protections or penalties. South Korea is an example of a <strong>neutral</strong> country where LGBTQ+ rights are not explicitly protected, yet discrimination and societal stigma remain significant challenges.</p>
-<p>In South Korea, negative attitudes toward LGBTQ+ people are common, particularly among conservative and religious groups, despite increasing acceptance among younger generations. There is no <a href="https://en.wikipedia.org/wiki/Anti-discrimination_law">anti-discrimination law</a>, <a href="https://glaad.org/reference/conversion-therapy/">conversion therapy</a> is still practiced, and LGBTQ+ issues are rarely included in psychological research or training programs. These gaps make it difficult for psychologists to offer competent, affirmative care.</p>
-<p>We aim to suggest practical steps for practitioners to create more inclusive and supportive environments. Examples include reflecting on personal biases, seeking professional development, using inclusive language, and integrating frameworks like the minority stress model into practice. We believe that adopting these strategies and advocating for change can help practitioners improve mental health care for LGBTQ+ people, even in regions with limited legal protections.</p>
-<div class="callout callout-style-simple callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Related Works
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ul>
-<li>Koch, J. M., Shin, Y.-J., Lee, J., &amp; Im, G. (2024, July 21-26). <em>Affirmative psychological practice in LGBTQ-neutral countries</em>. Poster presented at the 33rd International Congress of Psychology, Prague, Czech Republic.</li>
-</ul>
-</div>
-</div>
-
-
-
- ]]></description>
-  <category>Affirmative Therapy</category>
-  <category>LGBTQ+</category>
-  <guid>https://gihun-im.github.io/projects/affirmative_prac_LGBTQ+/</guid>
-  <pubDate>Sat, 01 Oct 2022 05:00:00 GMT</pubDate>
+  <pubDate>Sun, 31 Dec 2023 15:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
