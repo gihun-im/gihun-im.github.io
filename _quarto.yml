@@ -12,7 +12,6 @@ website:
   navbar:
     background: dark
     search: false
-    pinned: true
     right:
       - text: About
         href: index.qmd
