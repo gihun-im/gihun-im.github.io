@@ -12,7 +12,7 @@ website:
   navbar:
     background: dark
     search: false
-    piinned: true
+    pinned: true
     right:
       - text: About
         href: index.qmd
