@@ -16,9 +16,9 @@ filters:
 ::: {#heading}
 :::
 
-Hi there! 👋 I am a first-year PhD student in the Counseling Psychology program (APA-accredited) at the [University of Iowa](https://education.uiowa.edu/areas-study/counseling-and-mental-health/counseling-psychology). I am also a certified school counselor (전문상담교사 in Korean) and previously worked at the headquarters office of [Seoul Metropolitan Office of Education](https://english.sen.go.kr/english/index.do) for 3 years. Before moving to the U.S., I completed my master's degree in Educational Counseling at [Seoul National University](https://learning.snu.ac.kr) in 2024.
+Hi there! 👋 I am an upcoming second-year PhD student in the Counseling Psychology program (APA-accredited) at the [University of Iowa](https://education.uiowa.edu/areas-study/counseling-and-mental-health/counseling-psychology). I am also a certified school counselor (전문상담교사 in Korean) and previously worked at the headquarters office of [Seoul Metropolitan Office of Education](https://english.sen.go.kr/english/index.do) for 3 years. Before moving to the U.S., I completed my master's degree in Educational Counseling at [Seoul National University](https://learning.snu.ac.kr) in 2024.
 
-My research interests lie on two key themes:
+My research interests lie on three key themes:
 
 -   Uncovering oppression within marginalized spaces, particularly LGBTQ+ communities 🏳️‍🌈
 -   Promoting social justice advocacy training for practitioners 🧑‍🏫
