@@ -29,6 +29,6 @@ Using [PRISMA guidelines](https://www.prisma-statement.org), we screened 1,656 s
 
 ## Related Works
 
--   Kim, J., **Im, G.**, Kim, M., & Kang, S. (2025, August 7-9). *A decade later: Revisiting LGBTQ+ partner loss and bereavement in the post-same-sex marriage era*. Poster accepted at the APA 2025 Convention, Denver, CO, United States.
+-   Kim, J., Kang, S., **Im, G.**, & Kim, M. (2025, August 7-9). *A decade later: Revisiting LGBTQ+ partner loss and bereavement in the post-same-sex marriage era*. Poster accepted at the APA 2025 Convention, Denver, CO, United States.
 
 :::

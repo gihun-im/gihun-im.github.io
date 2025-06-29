@@ -1,0 +1,33 @@
+---
+title: CBI for Youth Resilience
+date: "2025-05"
+author: "Ongoing"
+date-format: "MMM YYYY"
+published-title: "started"
+author-title: "state"
+description: "PI: Yinmayue Tang"
+categories:
+  - Community-Based Intervention
+  - Resilience
+  - Youth
+format: html
+editor: visual
+filters:
+  - highlight-text
+---
+
+![](youth.jpg){fig-align="center" width="800"}
+
+Resilience is a protective process that enables youth to adapt and thrive amid adversity, supporting their positive development. From a social-ecological perspective, resilience emerges through interactions across multiple systems, requiring coordinated efforts at individual, relational, and structural levels([Brennan, 2007](https://www.tandfonline.com/doi/full/10.1080/13575270701733732))[^1]. Community organizations play a critical role in this process by addressing systemic inequities and bridging gaps between public services and individuals. Their locally grounded efforts can reduce disparities in access to care and promote more equitable developmental outcomes for youth.
+
+[^1]: Brennan, M. A. (2007). Conceptualizing resiliency: An interactional perspective for community and youth development. *Child Care in Practice*, *14*(1), 55-64.
+
+Given the limited attention to community-based programs in existing reviews and the inconsistent definitions and measurements of resilience across studies, our study will conduct a scoping review of community-based interventions that promote youth resilience. We are identifying relevant studies from PsycINFO and Scopus and will analyze them based on intervention type, outcome measures, and contextual influences on effectiveness. We aim to identify common components—such as social support, interpersonal skill-building, and empowerment—that align with key aspects of resilience. The findings will offer insights to inform evidence-based frameworks and policies for future community-based interventions.
+
+::: {.callout-note appearance = "simple"}
+
+## Related Works
+
+-   Tang, Y., **Im, G.**, & Zhang, Y. (2025, August 7-9). *Community efforts in promoting youth resilience: A scoping review of community-based programs*. Poster accepted at the APA 2025 Convention, Denver, CO, United States.
+
+:::

@@ -10,7 +10,54 @@
 <atom:link href="https://gihun-im.github.io/projects.xml" rel="self" type="application/rss+xml"/>
 <description>A personal academic website by Gihun Im</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Sat, 30 Nov 2024 15:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Apr 2025 15:00:00 GMT</lastBuildDate>
+<item>
+  <title>CBI for Youth Resilience</title>
+  <dc:creator>Ongoing </dc:creator>
+  <link>https://gihun-im.github.io/projects/CBI/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://gihun-im.github.io/projects/CBI/youth.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="800"></p>
+</figure>
+</div>
+<p>Resilience is a protective process that enables youth to adapt and thrive amid adversity, supporting their positive development. From a social-ecological perspective, resilience emerges through interactions across multiple systems, requiring coordinated efforts at individual, relational, and structural levels(<a href="https://www.tandfonline.com/doi/full/10.1080/13575270701733732">Brennan, 2007</a>)<sup>1</sup>. Community organizations play a critical role in this process by addressing systemic inequities and bridging gaps between public services and individuals. Their locally grounded efforts can reduce disparities in access to care and promote more equitable developmental outcomes for youth.</p>
+<p>Given the limited attention to community-based programs in existing reviews and the inconsistent definitions and measurements of resilience across studies, our study will conduct a scoping review of community-based interventions that promote youth resilience. We are identifying relevant studies from PsycINFO and Scopus and will analyze them based on intervention type, outcome measures, and contextual influences on effectiveness. We aim to identify common components—such as social support, interpersonal skill-building, and empowerment—that align with key aspects of resilience. The findings will offer insights to inform evidence-based frameworks and policies for future community-based interventions.</p>
+<div class="callout callout-style-simple callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Related Works
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Tang, Y., <strong>Im, G.</strong>, &amp; Zhang, Y. (2025, August 7-9). <em>Community efforts in promoting youth resilience: A scoping review of community-based programs</em>. Poster accepted at the APA 2025 Convention, Denver, CO, United States.</li>
+</ul>
+</div>
+</div>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Brennan, M. A. (2007). Conceptualizing resiliency: An interactional perspective for community and youth development. <em>Child Care in Practice</em>, <em>14</em>(1), 55-64.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>Community-Based Intervention</category>
+  <category>Resilience</category>
+  <category>Youth</category>
+  <guid>https://gihun-im.github.io/projects/CBI/</guid>
+  <pubDate>Wed, 30 Apr 2025 15:00:00 GMT</pubDate>
+</item>
 <item>
   <title>LGBTQ+ Partner Loss</title>
   <dc:creator>Ongoing </dc:creator>
@@ -39,7 +86,7 @@ Related Works
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li>Kim, J., <strong>Im, G.</strong>, Kim, M., &amp; Kang, S. (2025, August 7-9). <em>A decade later: Revisiting LGBTQ+ partner loss and bereavement in the post-same-sex marriage era</em>. Poster accepted at the APA 2025 Convention, Denver, CO, United States.</li>
+<li>Kim, J., Kang, S., <strong>Im, G.</strong>, &amp; Kim, M. (2025, August 7-9). <em>A decade later: Revisiting LGBTQ+ partner loss and bereavement in the post-same-sex marriage era</em>. Poster accepted at the APA 2025 Convention, Denver, CO, United States.</li>
 </ul>
 </div>
 </div>
