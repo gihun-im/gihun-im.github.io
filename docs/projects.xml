@@ -10,7 +10,50 @@
 <atom:link href="https://gihun-im.github.io/projects.xml" rel="self" type="application/rss+xml"/>
 <description>A personal academic website by Gihun Im</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Wed, 30 Apr 2025 15:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 01 Jul 2025 06:00:00 GMT</lastBuildDate>
+<item>
+  <title>LGBTQ+ Educators in South Korea: A Photovoice Study</title>
+  <dc:creator>Ongoing </dc:creator>
+  <link>https://gihun-im.github.io/projects/Photovoice/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="callout callout-style-simple callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Award Alert!
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This project was awarded the <strong>Lee Chang Kook Fund: Queer Research Grant</strong> by the Beyond the Rainbow Foundation in 2025.</p>
+</div>
+</div>
+<p>LGBTQ+ teachers can serve as advocates and role models for LGBTQ+ students, yet they remain marginalized in heteronormative school settings. Many face identity-based hostility and must juggle their roles as educators with managing stigmatized aspects of themselves. While research has highlighted these challenges and called for institutional support, inclusive training, and safer school climates, most studies focus on Western, predominantly White contexts, which limits their broader relevance.</p>
+<p>In South Korea, teaching is a respected and stable government profession shaped by Confucian values, making it an appealing career path for many LGBTQ+ individuals. However, queer teachers often navigate a stark tension between the profession’s prestige and the invisibility of LGBTQ+ identities in schools. This contradiction between public respectability and personal erasure remains understudied. Existing research also tends to frame LGBTQ+ teachers mainly as victims, overlooking their coping strategies and support networks. In addition, the reliance on interviews often fails to capture the full depth of their daily realities under systemic oppression.</p>
+<p><img src="https://gihun-im.github.io/projects/Photovoice/qtq.png" class="img-fluid"></p>
+<p>To address these gaps, I will conduct a qualitative photovoice study with around 8 members of <a href="https://www.instagram.com/qtq_rainbow/">QTQ</a> (Queer Teachers with Queers) a peer support group for LGBTQ+ educators in South Korea. Photovoice, which combines photography and storytelling, will enable participants to visually document their experiences and engage in collective dialogue. Using the PHOTO framework(<a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2F1099-9809.10.3.302">Graziano, 2004</a><sup>1</sup>; <a href="https://www.tandfonline.com/doi/abs/10.1300/J082v51n01_07">Hussey, 2006</a><sup>2</sup>), I will facilitate group interviews and, with consent, exhibit participants’ photographs online via Padlet in collaboration with QTQ.</p>
+<p>This study will offer culturally grounded insights into the lives of LGBTQ+ teachers in South Korea. It will move beyond deficit-based narratives by highlighting their resilience and use of community resources. Findings will have implications for inclusive school policies, teacher training, and support systems. By centering teachers’ voices, the project will contribute to a more nuanced understanding of both the challenges and strengths of LGBTQ+ educators in non-Western contexts.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Meyer, I. H. (2003). Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations: Conceptual issues and research evidence. <em>Psychological Bulletin</em>, <em>129</em>(5), 674-697.↩︎</p></li>
+<li id="fn2"><p>Jeong, S., Kim, B., Shim, K., &amp; Han, S. (2021). <em>2021 youth LGBTQ+ people’s social needs and status survey</em>. Dawoom: Together for Change.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>LGBTQ+</category>
+  <category>Photovoice</category>
+  <guid>https://gihun-im.github.io/projects/Photovoice/</guid>
+  <pubDate>Tue, 01 Jul 2025 06:00:00 GMT</pubDate>
+</item>
 <item>
   <title>CBI for Youth Resilience</title>
   <dc:creator>Ongoing </dc:creator>
@@ -56,7 +99,7 @@ Related Works
   <category>Resilience</category>
   <category>Youth</category>
   <guid>https://gihun-im.github.io/projects/CBI/</guid>
-  <pubDate>Wed, 30 Apr 2025 15:00:00 GMT</pubDate>
+  <pubDate>Thu, 01 May 2025 06:00:00 GMT</pubDate>
 </item>
 <item>
   <title>LGBTQ+ Partner Loss</title>
@@ -103,7 +146,7 @@ Related Works
   <category>Bereavement</category>
   <category>LGBTQ+</category>
   <guid>https://gihun-im.github.io/projects/bereavement/</guid>
-  <pubDate>Sat, 30 Nov 2024 15:00:00 GMT</pubDate>
+  <pubDate>Sun, 01 Dec 2024 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Minority Stressors and Protective Factors of LGBTQ+ People During COVID-19 Pandemic</title>
@@ -165,7 +208,7 @@ Related Works
   <category>LGBTQ+</category>
   <category>Minority Stress</category>
   <guid>https://gihun-im.github.io/projects/LGBTQ+_COVID-19/</guid>
-  <pubDate>Fri, 31 May 2024 15:00:00 GMT</pubDate>
+  <pubDate>Sat, 01 Jun 2024 06:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Relationship Between Decent Work and Decent Education</title>
@@ -228,7 +271,7 @@ Related Works
   <category>Career</category>
   <category>PWT</category>
   <guid>https://gihun-im.github.io/projects/PWT_decentedu/</guid>
-  <pubDate>Sun, 31 Dec 2023 15:00:00 GMT</pubDate>
+  <pubDate>Mon, 01 Jan 2024 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
