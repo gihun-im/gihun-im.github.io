@@ -21,11 +21,11 @@ This project was awarded the **Lee Chang Kook Fund: Queer Research Grant** by th
 
 :::
 
+![](qtq.png){fig-align="center" width="589"}
+
 LGBTQ+ teachers can serve as advocates and role models for LGBTQ+ students, yet they remain marginalized in heteronormative school settings. Many face identity-based hostility and must juggle their roles as educators with managing stigmatized aspects of themselves. While research has highlighted these challenges and called for institutional support, inclusive training, and safer school climates, most studies focus on Western, predominantly White contexts, which limits their broader relevance.
 
 In South Korea, teaching is a respected and stable government profession shaped by Confucian values, making it an appealing career path for many LGBTQ+ individuals. However, queer teachers often navigate a stark tension between the profession’s prestige and the invisibility of LGBTQ+ identities in schools. This contradiction between public respectability and personal erasure remains understudied. Existing research also tends to frame LGBTQ+ teachers mainly as victims, overlooking their coping strategies and support networks. In addition, the reliance on interviews often fails to capture the full depth of their daily realities under systemic oppression.
-
-![](qtq.png){fig-align="center" width="589"}
 
 To address these gaps, I will conduct a qualitative photovoice study with around 8 members of [QTQ](https://www.instagram.com/qtq_rainbow/) (Queer Teachers with Queers) a peer support group for LGBTQ+ educators in South Korea. Photovoice, which combines photography and storytelling, will enable participants to visually document their experiences and engage in collective dialogue. Using the PHOTO framework([Graziano, 2004](https://psycnet.apa.org/doiLanding?doi=10.1037%2F1099-9809.10.3.302)[^1]; [Hussey, 2006](https://www.tandfonline.com/doi/abs/10.1300/J082v51n01_07)[^2]), I will facilitate group interviews and, with consent, exhibit participants’ photographs online via Padlet in collaboration with QTQ.
 
