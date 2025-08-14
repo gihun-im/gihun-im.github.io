@@ -10,7 +10,7 @@
 <atom:link href="https://gihun-im.github.io/projects.xml" rel="self" type="application/rss+xml"/>
 <description>A personal academic website by Gihun Im</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Tue, 01 Jul 2025 06:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 01 Jul 2025 05:00:00 GMT</lastBuildDate>
 <item>
   <title>LGBTQ+ Educators in South Korea: A Photovoice Study</title>
   <dc:creator>Ongoing </dc:creator>
@@ -56,7 +56,7 @@ Award Alert!
   <category>LGBTQ+</category>
   <category>Photovoice</category>
   <guid>https://gihun-im.github.io/projects/Photovoice/</guid>
-  <pubDate>Tue, 01 Jul 2025 06:00:00 GMT</pubDate>
+  <pubDate>Tue, 01 Jul 2025 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>CBI for Youth Resilience</title>
@@ -103,7 +103,7 @@ Related Works
   <category>Resilience</category>
   <category>Youth</category>
   <guid>https://gihun-im.github.io/projects/CBI/</guid>
-  <pubDate>Thu, 01 May 2025 06:00:00 GMT</pubDate>
+  <pubDate>Thu, 01 May 2025 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>LGBTQ+ Partner Loss</title>
@@ -150,7 +150,7 @@ Related Works
   <category>Bereavement</category>
   <category>LGBTQ+</category>
   <guid>https://gihun-im.github.io/projects/bereavement/</guid>
-  <pubDate>Sun, 01 Dec 2024 07:00:00 GMT</pubDate>
+  <pubDate>Sun, 01 Dec 2024 06:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Minority Stressors and Protective Factors of LGBTQ+ People During COVID-19 Pandemic</title>
@@ -212,7 +212,7 @@ Related Works
   <category>LGBTQ+</category>
   <category>Minority Stress</category>
   <guid>https://gihun-im.github.io/projects/LGBTQ+_COVID-19/</guid>
-  <pubDate>Sat, 01 Jun 2024 06:00:00 GMT</pubDate>
+  <pubDate>Sat, 01 Jun 2024 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Relationship Between Decent Work and Decent Education</title>
@@ -275,7 +275,7 @@ Related Works
   <category>Career</category>
   <category>PWT</category>
   <guid>https://gihun-im.github.io/projects/PWT_decentedu/</guid>
-  <pubDate>Mon, 01 Jan 2024 07:00:00 GMT</pubDate>
+  <pubDate>Mon, 01 Jan 2024 06:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
