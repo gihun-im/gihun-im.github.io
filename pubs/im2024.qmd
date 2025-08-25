@@ -1,5 +1,5 @@
 ---
-title: "Korean school counselors' counseling competencies and advocacy activities for LGBTQ+ youth: Latent Profile Analysis"
+title: "Korean school counselors' counseling competencies and advocacy activities for LGBTQ+ youth: A latent profile analysis"
 author: "Im, G., & Kim, D."
 author-title: author(s)
 year: "under review"
@@ -22,4 +22,4 @@ Im, G., & Kim, D. (under review). Korean school counselors' counseling competenc
 
 #### Abstract
 
-The purpose of this study was to classify school counselors into latent groups based on their counseling competencies and advocacy activities for LGBTQ+ youth, and to explore the effects of certain characteristics on the classifications. A comprehensive survey was given to 259 school counselors. Using Latent Profile Analysis (LPA), the data was classified into potential groups, and subsequent analysis with the R3STEP method identified factors that significantly influenced group classification. Data analysis via LPA revealed five latent groups among school counselors, labeled as "Distant," "Passive," "Average," "Active," and "Advocacy-oriented." Factors that influenced the classification of the groups included sexual orientation and gender identity, the logarithmic value of counseling experiences with LGBTQ+ clients, and school level advocacy. The findings led to discussions on educational and training approaches to enhance school counselors’ counseling competencies and advocacy activities for LGBTQ+ youth.
+The purpose of this study was to classify school counselors into latent groups based on their counseling competencies and advocacy activities for LGBTQ+ youth, and to explore the effects of certain characteristics on the classifications. A comprehensive survey was given to 259 school counselors. Using latent profile analysis (LPA), the data was classified into potential groups, and subsequent analysis with the R3STEP method identified factors that significantly influenced group classification. Data analysis via LPA revealed five latent groups among school counselors, labeled as Distant, Passive, Average, Active, and Advocacy-oriented. Factors that influenced the classification of the groups included sexual orientation and gender identity, the logarithmic value of counseling experiences with LGBTQ+ clients, and school level advocacy. The findings led to discussions on educational and training approaches to enhance school counselors’ counseling competencies and advocacy activities for LGBTQ+ youth.
