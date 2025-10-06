@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gihun-im.github.io/pubs/im2024.html</loc>
-    <lastmod>2025-09-05T01:59:02.232Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gihun-im.github.io/pubs/dkimjpark2025_1.html</loc>
-    <lastmod>2025-03-06T05:47:31.817Z</lastmod>
-  </url>
-  <url>
     <loc>https://gihun-im.github.io/pubs.html</loc>
-    <lastmod>2025-10-06T03:00:01.701Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gihun-im.github.io/index.html</loc>
-    <lastmod>2025-09-05T02:03:08.806Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gihun-im.github.io/projects/Photovoice/index.html</loc>
-    <lastmod>2025-08-25T18:03:45.183Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gihun-im.github.io/projects/LGBTQ+_COVID-19/index.html</loc>
-    <lastmod>2025-01-15T03:26:48.755Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gihun-im.github.io/projects/bereavement/index.html</loc>
-    <lastmod>2025-08-09T05:21:52.279Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gihun-im.github.io/projects/CBI/index.html</loc>
-    <lastmod>2025-08-25T18:05:06.258Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gihun-im.github.io/projects/PWT_decentedu/index.html</loc>
-    <lastmod>2025-08-25T18:03:14.661Z</lastmod>
+    <lastmod>2025-10-06T03:19:50.934Z</lastmod>
   </url>
   <url>
     <loc>https://gihun-im.github.io/projects.html</loc>
     <lastmod>2025-01-07T11:27:13.311Z</lastmod>
   </url>
   <url>
-    <loc>https://gihun-im.github.io/publications.html</loc>
+    <loc>https://gihun-im.github.io/projects/PWT_decentedu/index.html</loc>
+    <lastmod>2025-08-25T18:03:14.661Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gihun-im.github.io/projects/CBI/index.html</loc>
+    <lastmod>2025-08-25T18:05:06.258Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gihun-im.github.io/archive/pubs/im2024.html</loc>
+    <lastmod>2025-09-05T01:59:02.232Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gihun-im.github.io/archive/pubs/dkimjpark2025_1.html</loc>
+    <lastmod>2025-03-06T05:47:31.817Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gihun-im.github.io/archive/publications.html</loc>
     <lastmod>2025-01-13T18:51:24.687Z</lastmod>
   </url>
   <url>
-    <loc>https://gihun-im.github.io/pubs/dkim2023.html</loc>
+    <loc>https://gihun-im.github.io/archive/pubs/dkim2023.html</loc>
     <lastmod>2025-01-08T06:16:17.015Z</lastmod>
   </url>
   <url>
-    <loc>https://gihun-im.github.io/pubs/dkimjpark2025_2.html</loc>
+    <loc>https://gihun-im.github.io/archive/pubs/dkimjpark2025_2.html</loc>
     <lastmod>2025-08-25T18:01:29.386Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gihun-im.github.io/projects/bereavement/index.html</loc>
+    <lastmod>2025-08-09T05:21:52.279Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gihun-im.github.io/projects/LGBTQ+_COVID-19/index.html</loc>
+    <lastmod>2025-01-15T03:26:48.755Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gihun-im.github.io/projects/Photovoice/index.html</loc>
+    <lastmod>2025-08-25T18:03:45.183Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gihun-im.github.io/index.html</loc>
+    <lastmod>2025-09-05T02:03:08.806Z</lastmod>
   </url>
 </urlset>

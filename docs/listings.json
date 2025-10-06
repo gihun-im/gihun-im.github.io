@@ -10,12 +10,12 @@
     ]
   },
   {
-    "listing": "/publications.html",
+    "listing": "/archive/publications.html",
     "items": [
-      "/pubs/im2024.html",
-      "/pubs/dkimjpark2025_1.html",
-      "/pubs/dkimjpark2025_2.html",
-      "/pubs/dkim2023.html"
+      "/archive/pubs/im2024.html",
+      "/archive/pubs/dkimjpark2025_1.html",
+      "/archive/pubs/dkimjpark2025_2.html",
+      "/archive/pubs/dkim2023.html"
     ]
   }
 ]
