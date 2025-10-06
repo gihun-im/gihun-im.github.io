@@ -19,6 +19,8 @@ website:
         href: projects.qmd
       - text: Publications
         href: publications.qmd
+      - text: Publications_new
+        href: pubs.qmd
       - text: CV
         href: assets/pdf/cv_Gihun_Im.pdf
       - text: "{{< iconify fa6-solid:envelope >}}"
