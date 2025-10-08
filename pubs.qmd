@@ -5,16 +5,18 @@ format: html
 
 You can also explore my work on [Google Scholar](https://scholar.google.com/citations?user=TgdOb8MAAAAJ).
 
+\[KCI\] denotes the [Korean Citation Index](https://www.kci.go.kr/kciportal/main.kci?locale=en), indicating that the article is in Korean.
+
 \
 
 ## 2025
 
 **Im, G.**, Kim, D. (unver review). Korean school counselors' counseling competencies and advocacy activities for LGBTQ+ youth: A latent profile analysis. *Current Psychology*.
 
-Kim, D., **Im, G.**, Chung, G., & Park, J. (2025). Impact of discussion activity in international youth exchange programs on global citizenship: Mediating role of multicultural competence. *Journal of Education & Culture*, *31*(1), 597-613. <https://doi.org/10.24159/joec.2025.31.1.597>
+Kim, D., **Im, G.**, Chung, G., & Park, J. (2025). Impact of discussion activity in international youth exchange programs on global citizenship: Mediating role of multicultural competence. *Journal of Education & Culture*, *31*(1), 597-613. [\[KCI\]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003179605)
 
-Kim, D., Park, J., & **Im, G.** (2025). Research on developing a social enrichment program for young adults with borderline intellectual functioning. *Disability & Employment*, *35*(1), 163-186. <https://doi.org/10.15707/disem.2025.35.1.07>
+Kim, D., Park, J., & **Im, G.** (2025). Research on developing a social enrichment program for young adults with borderline intellectual functioning. *Disability & Employment*, *35*(1), 163-186. [\[KCI\]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003177743)
 
 ## 2023
 
-Kim, D., Park, J., Lee, J., Park, I., & **Im, G.** (2023). Exploring subjects of standardized curriculum for youth counselors in South Korea by Delphi method. *Studies on Korean Youth*, *34*(4), 143-164. <https://doi.org/10.14816/sky.2023.34.4.143>
+Kim, D., Park, J., Lee, J., Park, I., & **Im, G.** (2023). Exploring subjects of standardized curriculum for youth counselors in South Korea by Delphi method. *Studies on Korean Youth*, *34*(4), 143-164. <https://doi.org/10.14816/sky.2023.34.4.143> \[KCI\]
