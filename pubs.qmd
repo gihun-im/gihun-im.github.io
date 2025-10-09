@@ -3,9 +3,8 @@ title: "📑 Publications"
 format: html
 ---
 
-You can also explore my work on [Google Scholar](https://scholar.google.com/citations?user=TgdOb8MAAAAJ).
-
-\[KCI\] denotes the [Korean Citation Index](https://www.kci.go.kr/kciportal/main.kci?locale=en), indicating that the article is in Korean.
+- You can also explore my work on [Google Scholar](https://scholar.google.com/citations?user=TgdOb8MAAAAJ).
+- \[KCI\] denotes the [Korean Citation Index](https://www.kci.go.kr/kciportal/main.kci?locale=en), indicating that the article is in Korean.
 
 \
 
