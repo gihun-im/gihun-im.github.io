@@ -1,5 +1,5 @@
 ---
-title: LGBTQ+ Partner Loss
+title: Community Support and College Success
 date: "2025-09"
 author: "Ongoing"
 date-format: "MMM YYYY"
@@ -14,6 +14,14 @@ editor: visual
 filters:
   - highlight-text
 ---
+
+::: {.callout-important appearance = "simple"}
+
+Award Alert!
+
+This project was awarded the Small Research Grant by the Spencer Foundation in 2020.
+
+:::
 
 ![](community.jpg){fig-align="center"}
 
