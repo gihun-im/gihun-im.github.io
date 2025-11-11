@@ -17,7 +17,7 @@ filters:
 
 ::: {.callout-important appearance = "simple"}
 
-Award Alert!
+## Award Alert!
 
 This project was awarded the Small Research Grant by the Spencer Foundation in 2020.
 
