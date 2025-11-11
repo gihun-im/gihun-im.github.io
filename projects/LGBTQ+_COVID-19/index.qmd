@@ -22,13 +22,13 @@ This project was awarded the **Mary Bywater Cross and Robert P. Newman Research 
 
 :::
 
-In May 2021, during early phase of the COVID-19 pandemic in South Korea, a news outlet publicly identified a COVID-19 patient as a "gay man" who visited gay clubs in Itaewon, disclosing personal details. This led to significant online hate against the LGBTQ+ community, heightening fear of contracting COVID-19 within this group. Using the Minority Stress Model ([Meyer, 2003](https://pmc.ncbi.nlm.nih.gov/articles/PMC2072932/))[^1], this project investigates how **minority stressors**, such as the perceived threat of COVID-19, affect contextual factors like internalized stigma and contribute to mental health outcomes among LGBTQ+ people. Also, I aim to examine the moderating role of **protective factors**, such as community connectedness, in these relationships.
+In May 2021, during the early stage of the COVID-19 pandemic in South Korea, a major news outlet publicly identified a patient as a "gay man" who had visited several gay clubs in Itaewon, revealing personal information without consent. The disclosure triggerd a surge of online hostility toward the LGBTQ+ community, deepening stigma and intensifying fears of infection among its members. Guided by the Minority Stress Model ([Meyer, 2003](https://pmc.ncbi.nlm.nih.gov/articles/PMC2072932/))[^1], this project examines how **minority stressors**, such as the perceived threat of COVID-19, shape internalized stigma and, in turn, influence mental health outcomes among LGBTQ+ people. The project also explores whether **protective factors**, including community connectedness, buffer these adverse effects.
 
 [^1]: Meyer, I. H. (2003). Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations: Conceptual issues and research evidence. *Psychological Bulletin*, *129*(5), 674-697.
 
 ![2021 Youth LGBTQ+ People's Social Needs and Status Survey (Jeong et al., 2021)](dawoom.png){style="text-align: center" fig-align="center" width="400"}
 
-I will use data from the *2021 Youth LGBTQ+ People's Social Needs and Status Survey* ([Jeong et al., 2021](https://www.dawoom-t4c.org/397d4ebb-6ad4-4525-9b71-9706f13a5e8b))[^2], which surveyed 3,911 LGBTQ+ people aged 19-34 in South Korea. For analysis, I will use SPSS 27.0, Mplus, and R to test the mediating effects of minority stressors and the moderating effects of protective factors.
+I will use data from the *2021 Youth LGBTQ+ People's Social Needs and Status Survey* ([Jeong et al., 2021](https://www.dawoom-t4c.org/397d4ebb-6ad4-4525-9b71-9706f13a5e8b))[^2], which includes responses from 3,911 LGBTQ+ people aged 19 to 34 in South Korea. For analysis, I will use SPSS 27.0, Mplus, and R to test the mediating effects of minority stressors and the moderating roles of protective factors in these relationships.
 
 [^2]: Jeong, S., Kim, B., Shim, K., & Han, S. (2021). *2021 youth LGBTQ+ people's social needs and status survey*. Dawoom: Together for Change.
 

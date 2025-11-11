@@ -17,11 +17,11 @@ filters:
 
 ![](grief.jpg){fig-align="center"}
 
-Since the 2015 legalization of same-sex marraige in the U.S., societal and legal shifts have changed the context of LGBTQ+ partner loss. Building on [Bristowe et al.'s (2016)](https://journals.sagepub.com/doi/pdf/10.1177/0269216316634601)[^1] systematic review, we examined reserach on LGBTQ+ bereavement published after 2015.
+Since the 2015 legalization of same-sex marraige in the U.S., both social attitudes and legal structures have reshaped the landscape of LGBTQ+ partner loss. Building on [Bristowe et al.’s (2016)](https://journals.sagepub.com/doi/pdf/10.1177/0269216316634601)[^1] systematic review, we examined research on LGBTQ+ bereavement published after 2015.
 
 [^1]: Bristowe, K., Marshall, S., & Harding, R. (2016). The bereavement experiences of lesbian, gay, bisexual and/or trans\* people who have lost a partner: A systematic review, thematic synthesis and modelling of the literature. *Palliative Medicine*, *30*(8), 730-744.
 
-Using [PRISMA guidelines](https://www.prisma-statement.org), we screened 1,656 studies from Psychology Database and PubMed, ultimately including 10 qualitative studies. Thematic analysis identified common bereavement reactions and LGBTQ+-specific experiences. Findings highlight the need for professional education and interventions tailored to the unique grief experiences of LGBTQ+ people, even in an era of increased legal recognition.
+We followed [PRISMA guidelines](https://www.prisma-statement.org) and screened 1,656 studies from the Psychology Database and PubMed, ultimately including 10 qualitative studies. Through thematic analysis, we identified common bereavement reactions and LGBTQ+-specific experiences. The findings highlight the ongoing need for professional training and interventions that address the unique aspects of bereavement among LGBTQ+ people, even amid broader legal and social recognition.
 
 [We are currently preparing for submission based on the analyzed results.]{color="#FFD479"}
 
