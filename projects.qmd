@@ -12,7 +12,7 @@ listing:
   sort-ui: false
   filter-ui: false
   feed: true
-  max-items: 6
+  page-size: 5
   field-display-names:
     title: "Project"
     date: "Started"
