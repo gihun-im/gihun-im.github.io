@@ -5,7 +5,7 @@ author: "Finished"
 date-format: "MMM YYYY"
 published-title: "started"
 author-title: "state"
-description: Independent research
+description: "Co-PI: Ilhyun Bae & Gihun Im"
 categories: 
   - Career
   - PWT

@@ -5,7 +5,7 @@ author: "Ongoing"
 date-format: "MMM YYYY"
 published-title: "started"
 author-title: "state"
-description: Independent research
+description: "PI: Gihun Im"
 categories: 
   - COVID-19
   - LGBTQ+

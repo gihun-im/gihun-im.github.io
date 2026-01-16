@@ -8,9 +8,13 @@ format: html
 
 \
 
-## 2025
+## 2026
 
-**Im, G.**, Kim, D. (unver review). Korean school counselors' counseling competencies and advocacy activities for LGBTQ+ youth: A latent profile analysis. *Current Psychology*.
+**Im, G.**. (unver review). Ethical risk prevention in client generative AI use: Applying the primary risk-management model.
+
+**Im, G.**, Kim, D. (unver review). Korean school counselors' counseling competencies and advocacy activities for LGBTQ+ youth: A latent profile analysis.
+
+## 2025
 
 Kim, D., **Im, G.**, Chung, G., & Park, J. (2025). Impact of discussion activity in international youth exchange programs on global citizenship: Mediating role of multicultural competence. *Journal of Education & Culture*, *31*(1), 597-613. [\[KCI\]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003179605)
 
