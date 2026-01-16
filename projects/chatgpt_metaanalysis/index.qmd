@@ -1,5 +1,5 @@
 ---
-title: Community Support and College Success
+title: Lived Experiences with ChatGPT for Mental Health Support
 date: "2026-01"
 author: "Ongoing"
 date-format: "MMM YYYY"
