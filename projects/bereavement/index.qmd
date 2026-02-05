@@ -1,11 +1,11 @@
 ---
 title: LGBTQ+ Partner Loss
 date: "2024-12"
-author: "Ongoing"
+author: "Finished"
 date-format: "MMM YYYY"
 published-title: "started"
 author-title: "state"
-description: In collaboration with EE-MM members
+description: "In collaboration with EE-MM members"
 categories:
   - Bereavement
   - LGBTQ+

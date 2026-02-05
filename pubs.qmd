@@ -10,6 +10,8 @@ format: html
 
 ## 2026
 
+Kim, J., Kang, S., **Im, G.**, & Kim, M. (under review). A decade later: Revisiting LGBTQ+ partner loss and bereavement in the post-same-sex marriage era.
+
 **Im, G.**. (unver review). Ethical risk prevention in client generative AI use: Applying the primary risk-management model.
 
 **Im, G.**, Kim, D. (unver review). Korean school counselors' counseling competencies and advocacy activities for LGBTQ+ youth: A latent profile analysis.
