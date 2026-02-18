@@ -10,7 +10,7 @@ format: html
 
 ## 2026
 
-Kim, J., Kang, S., **Im, G.**, & Kim, M. (under review). A decade later: Revisiting LGBTQ+ partner loss and bereavement in the post-same-sex marriage era.
+Kim, J., Kang, S., **Im, G.**, & Kim, M. (under review). A systematic review and meta-synthesis on LGBTQ+ partner bereavement: Grief trajectories toward an ecological framework.
 
 **Im, G.**. (unver review). Ethical risk prevention in client generative AI use: Applying the primary risk-management model.
 
