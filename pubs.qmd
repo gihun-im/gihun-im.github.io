@@ -10,7 +10,7 @@ format: html
 
 ## 2026
 
-**Im, G.**. (in press). Ethical risk prevention in client generative AI use: Applying the primary risk-management model. *American Psychologist*.
+**Im, G.** (in press). Ethical risk prevention in client generative AI use: Applying the primary risk-management model. *American Psychologist*.
 
 Kim, J., Kang, S., **Im, G.**, & Kim, M. (under review). A systematic review and meta-synthesis on LGBTQ+ partner bereavement: Grief trajectories toward an ecological framework.
 
