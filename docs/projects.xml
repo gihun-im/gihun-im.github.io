@@ -10,7 +10,7 @@
 <atom:link href="https://gihun-im.github.io/projects.xml" rel="self" type="application/rss+xml"/>
 <description>A personal academic website by Gihun Im</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Thu, 01 Jan 2026 06:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Jan 2026 05:00:00 GMT</lastBuildDate>
 <item>
   <title>Lived Experiences with ChatGPT for Mental Health Support</title>
   <dc:creator>Ongoing </dc:creator>
@@ -42,9 +42,70 @@
 </ol>
 </section></div> ]]></description>
   <category>ChatGPT</category>
-  <category>genAI</category>
+  <category>GenAI</category>
   <guid>https://gihun-im.github.io/projects/chatgpt_metaanalysis/</guid>
-  <pubDate>Thu, 01 Jan 2026 06:00:00 GMT</pubDate>
+  <pubDate>Thu, 01 Jan 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Ethical Risk Management of Client GenAI Use</title>
+  <dc:creator>Finished </dc:creator>
+  <link>https://gihun-im.github.io/projects/client_genAI_use/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="callout callout-style-simple callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Publication Alert!
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This paper was accepted for publication in <em>American Psychologist</em>, the flagship journal of the American Psychological Association.</p>
+</div>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://gihun-im.github.io/projects/client_genAI_use/genai.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<p>This project began as the final paper for PSQF:7465 Issues &amp; Ethics in Professional Psychology in Fall 2025. During that work, I noticed the lack of clear and ethically grounded strategies for addressing clients’ use of generative artificial intelligence (genAI) in therapy settings. Although clients increasingly turn to tools such as ChatGPT for emotional support, professional guidance for psychologists remains limited. This gap motivated a conceptual paper that examines how psychologists might approach this emerging issue in a thoughtful and ethically responsible way.</p>
+<p>To explore how psychologists can respond to these situations, the paper applies the <strong>Primary Risk Management Model (PRMM)</strong> proposed by <a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fa0026212">Crowley and Gottlieb (2012)</a><sup>1</sup>. PRMM emphasizes proactive awareness and prevention rather than reacting to harm after it occurs. By applying this model to genAI-related scenarios, the project illustrates how psychologists can anticipate potential risks, monitor emerging concerns, and respond with greater ethical awareness when clients integrate AI tools into their coping practices.</p>
+<p>The paper concludes by discussing implications for professional training, policy development, and future empirical research on the role of generative AI in mental health care.</p>
+<div class="callout callout-style-simple callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Related Works
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Im, G.</strong> (in-press). Ethical risk prevention in client generative AI use: Applying the primary risk-management model. <em>American Psychologist</em>.</li>
+<li><strong>Im, G.</strong> (2026, August 6–8). <em>Ethical risk prevention in client generative AI use: Applying the primary risk-management model</em> [Poster presentation]. APA 2026 Convention, Washington, DC, United States.</li>
+</ul>
+</div>
+</div>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Crowley, J. D., &amp; Gottlieb, M. C. (2012). Objects in the mirror are closer than they appear: A primary prevention model for ethical decision making. <em>Professional Psychology: Research and Practice</em>, <em>43</em>(1), 65–72. https://doi.org/10.1037/a0026212↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>AI Ethics</category>
+  <category>GenAI</category>
+  <guid>https://gihun-im.github.io/projects/client_genAI_use/</guid>
+  <pubDate>Mon, 01 Dec 2025 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Community Support and College Success</title>
@@ -83,7 +144,7 @@ Award Alert!
   <category>CBO</category>
   <category>CSP</category>
   <guid>https://gihun-im.github.io/projects/Spencer/</guid>
-  <pubDate>Mon, 01 Sep 2025 05:00:00 GMT</pubDate>
+  <pubDate>Mon, 01 Sep 2025 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>LGBTQ+ Educators in South Korea: A Photovoice Study</title>
@@ -123,14 +184,14 @@ Award Alert!
 <div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
-<li id="fn1"><p>Graziano, K. (2004). Oppression and resiliency in a post-apartheid South Africa: Unheard voices of Black gay men and lesbians. <em>Cultural Diversity &amp; Ethinc Minority Psychology</em>, <em>10</em>(3), 302-316.↩︎</p></li>
-<li id="fn2"><p>Hussey, W. (2006). Silvers of the journey: The use of photovoice and storytelling to examine female to male transsexuals’ experience of health care access. <em>Journal of Homosexuality</em>, <em>51</em>(1), 129-158.↩︎</p></li>
+<li id="fn1"><p>Graziano, K. (2004). Oppression and resiliency in a post-apartheid South Africa: Unheard voices of Black gay men and lesbians. <em>Cultural Diversity &amp; Ethinc Minority Psychology</em>, <em>10</em>(3), 302–316.↩︎</p></li>
+<li id="fn2"><p>Hussey, W. (2006). Silvers of the journey: The use of photovoice and storytelling to examine female to male transsexuals’ experience of health care access. <em>Journal of Homosexuality</em>, <em>51</em>(1), 129–158.↩︎</p></li>
 </ol>
 </section></div> ]]></description>
   <category>LGBTQ+</category>
   <category>Photovoice</category>
   <guid>https://gihun-im.github.io/projects/LGBTQ+ photovoice/</guid>
-  <pubDate>Tue, 01 Jul 2025 05:00:00 GMT</pubDate>
+  <pubDate>Tue, 01 Jul 2025 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>CBI for Youth Resilience</title>
@@ -160,7 +221,7 @@ Related Works
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li>Tang, Y., <strong>Im, G.</strong>, &amp; Zhang, Y. (2025, August 7-9). <em>Community efforts in promoting youth resilience: A scoping review of community-based programs</em> [Poster presentation]. APA 2025 Convention, Denver, CO, United States.</li>
+<li>Tang, Y., <strong>Im, G.</strong>, &amp; Zhang, Y. (2025, August 7–9). <em>Community efforts in promoting youth resilience: A scoping review of community-based programs</em> [Poster presentation]. APA 2025 Convention, Denver, CO, United States.</li>
 </ul>
 </div>
 </div>
@@ -171,14 +232,14 @@ Related Works
 <div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
-<li id="fn1"><p>Brennan, M. A. (2007). Conceptualizing resiliency: An interactional perspective for community and youth development. <em>Child Care in Practice</em>, <em>14</em>(1), 55-64.↩︎</p></li>
+<li id="fn1"><p>Brennan, M. A. (2007). Conceptualizing resiliency: An interactional perspective for community and youth development. <em>Child Care in Practice</em>, <em>14</em>(1), 55–64.↩︎</p></li>
 </ol>
 </section></div> ]]></description>
   <category>Community-Based Intervention</category>
   <category>Resilience</category>
   <category>Youth</category>
   <guid>https://gihun-im.github.io/projects/CBI/</guid>
-  <pubDate>Thu, 01 May 2025 05:00:00 GMT</pubDate>
+  <pubDate>Thu, 01 May 2025 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>LGBTQ+ Partner Loss</title>
@@ -208,7 +269,7 @@ Related Works
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li>Kim, J., Kang, S., <strong>Im, G.</strong>, &amp; Kim, M. (2025, August 7-9). <em>A decade later: Revisiting LGBTQ+ partner loss and bereavement in the post-same-sex marriage era</em> [Poster presentation]. APA 2025 Convention, Denver, CO, United States.</li>
+<li>Kim, J., Kang, S., <strong>Im, G.</strong>, &amp; Kim, M. (2025, August 7–9). <em>A decade later: Revisiting LGBTQ+ partner loss and bereavement in the post-same-sex marriage era</em> [Poster presentation]. APA 2025 Convention, Denver, CO, United States.</li>
 </ul>
 </div>
 </div>
@@ -219,13 +280,13 @@ Related Works
 <div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
-<li id="fn1"><p>Bristowe, K., Marshall, S., &amp; Harding, R. (2016). The bereavement experiences of lesbian, gay, bisexual and/or trans* people who have lost a partner: A systematic review, thematic synthesis and modelling of the literature. <em>Palliative Medicine</em>, <em>30</em>(8), 730-744.↩︎</p></li>
+<li id="fn1"><p>Bristowe, K., Marshall, S., &amp; Harding, R. (2016). The bereavement experiences of lesbian, gay, bisexual and/or trans* people who have lost a partner: A systematic review, thematic synthesis and modelling of the literature. <em>Palliative Medicine</em>, <em>30</em>(8), 730–744.↩︎</p></li>
 </ol>
 </section></div> ]]></description>
   <category>Bereavement</category>
   <category>LGBTQ+</category>
   <guid>https://gihun-im.github.io/projects/bereavement/</guid>
-  <pubDate>Sun, 01 Dec 2024 06:00:00 GMT</pubDate>
+  <pubDate>Sun, 01 Dec 2024 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Minority Stressors and Protective Factors of LGBTQ+ People During COVID-19 Pandemic</title>
@@ -279,7 +340,7 @@ Related Works
 <div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
-<li id="fn1"><p>Meyer, I. H. (2003). Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations: Conceptual issues and research evidence. <em>Psychological Bulletin</em>, <em>129</em>(5), 674-697.↩︎</p></li>
+<li id="fn1"><p>Meyer, I. H. (2003). Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations: Conceptual issues and research evidence. <em>Psychological Bulletin</em>, <em>129</em>(5), 674–697.↩︎</p></li>
 <li id="fn2"><p>Jeong, S., Kim, B., Shim, K., &amp; Han, S. (2021). <em>2021 youth LGBTQ+ people’s social needs and status survey</em>. Dawoom: Together for Change.↩︎</p></li>
 </ol>
 </section></div> ]]></description>
@@ -287,7 +348,7 @@ Related Works
   <category>LGBTQ+</category>
   <category>Minority Stress</category>
   <guid>https://gihun-im.github.io/projects/LGBTQ+_COVID-19/</guid>
-  <pubDate>Sat, 01 Jun 2024 05:00:00 GMT</pubDate>
+  <pubDate>Sat, 01 Jun 2024 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Relationship Between Decent Work and Decent Education</title>
@@ -331,7 +392,7 @@ Related Works
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li>Bae, I., &amp; <strong>Im, G.</strong> (in progress). Relationship between decent education and decent work for youth: Mediating effects of work volition and career adaptability.</li>
+<li>Bae, I., &amp; <strong>Im, G.</strong> (in preparation). Relationship between decent education and decent work for youth: Mediating effects of work volition and career adaptability.</li>
 <li>Bae, I., &amp; <strong>Im, G.</strong> (2024, June 5). <em>Relationship between decent education and decent work for youth: Mediating effects of work volition and career adaptability</em> [Paper presentation]. 2024 Employment Survey Conference, Seoul, South Korea.</li>
 </ul>
 </div>
@@ -350,7 +411,7 @@ Related Works
   <category>Career</category>
   <category>PWT</category>
   <guid>https://gihun-im.github.io/projects/PWT_decentedu/</guid>
-  <pubDate>Mon, 01 Jan 2024 06:00:00 GMT</pubDate>
+  <pubDate>Mon, 01 Jan 2024 05:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

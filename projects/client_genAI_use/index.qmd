@@ -1,0 +1,43 @@
+---
+title: Ethical Risk Management of Client GenAI Use
+date: "2025-12"
+author: "Finished"
+date-format: "MMM YYYY"
+published-title: "started"
+author-title: "state"
+description: "PI: Gihun Im"
+categories:
+  - AI Ethics
+  - GenAI
+format: html
+editor: visual
+filters:
+  - highlight-text
+---
+
+::: {.callout-important appearance = "simple"}
+
+## Publication Alert!
+
+This paper was accepted for publication in *American Psychologist*, the flagship journal of the American Psychological Association.
+
+:::
+
+![](genai.jpg){fig-align="center"}
+
+This project began as the final paper for PSQF:7465 Issues & Ethics in Professional Psychology in Fall 2025. During that work, I noticed the lack of clear and ethically grounded strategies for addressing clients’ use of generative artificial intelligence (genAI) in therapy settings. Although clients increasingly turn to tools such as ChatGPT for emotional support, professional guidance for psychologists remains limited. This gap motivated a conceptual paper that examines how psychologists might approach this emerging issue in a thoughtful and ethically responsible way.
+
+To explore how psychologists can respond to these situations, the paper applies the **Primary Risk Management Model (PRMM)** proposed by [Crowley and Gottlieb (2012)](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fa0026212)[^1]. PRMM emphasizes proactive awareness and prevention rather than reacting to harm after it occurs. By applying this model to genAI-related scenarios, the project illustrates how psychologists can anticipate potential risks, monitor emerging concerns, and respond with greater ethical awareness when clients integrate AI tools into their coping practices.
+
+[^1]: Crowley, J. D., & Gottlieb, M. C. (2012). Objects in the mirror are closer than they appear: A primary prevention model for ethical decision making. *Professional Psychology: Research and Practice*, *43*(1), 65–72. https://doi.org/10.1037/a0026212
+
+The paper concludes by discussing implications for professional training, policy development, and future empirical research on the role of generative AI in mental health care.
+
+::: {.callout-note appearance = "simple"}
+
+## Related Works
+
+-   **Im, G.** (in-press). Ethical risk prevention in client generative AI use: Applying the primary risk-management model. *American Psychologist*.
+-   **Im, G.** (2026, August 6–8). *Ethical risk prevention in client generative AI use: Applying the primary risk-management model* \[Poster presentation\]. APA 2026 Convention, Washington, DC, United States.
+
+:::

@@ -8,7 +8,7 @@ author-title: "state"
 description: "PI: Gihun Im"
 categories:
   - ChatGPT
-  - genAI
+  - GenAI
 format: html
 editor: visual
 filters:

@@ -19,7 +19,7 @@ filters:
 
 Since the 2015 legalization of same-sex marraige in the U.S., both social attitudes and legal structures have reshaped the landscape of LGBTQ+ partner loss. Building on [Bristowe et al.’s (2016)](https://journals.sagepub.com/doi/pdf/10.1177/0269216316634601)[^1] systematic review, we examined research on LGBTQ+ bereavement published after 2015.
 
-[^1]: Bristowe, K., Marshall, S., & Harding, R. (2016). The bereavement experiences of lesbian, gay, bisexual and/or trans\* people who have lost a partner: A systematic review, thematic synthesis and modelling of the literature. *Palliative Medicine*, *30*(8), 730-744.
+[^1]: Bristowe, K., Marshall, S., & Harding, R. (2016). The bereavement experiences of lesbian, gay, bisexual and/or trans\* people who have lost a partner: A systematic review, thematic synthesis and modelling of the literature. *Palliative Medicine*, *30*(8), 730–744.
 
 We followed [PRISMA guidelines](https://www.prisma-statement.org) and screened 1,656 studies from the Psychology Database and PubMed, ultimately including 10 qualitative studies. Through thematic analysis, we identified common bereavement reactions and LGBTQ+-specific experiences. The findings highlight the ongoing need for professional training and interventions that address the unique aspects of bereavement among LGBTQ+ people, even amid broader legal and social recognition.
 
@@ -29,6 +29,6 @@ We followed [PRISMA guidelines](https://www.prisma-statement.org) and screened 1
 
 ## Related Works
 
--   Kim, J., Kang, S., **Im, G.**, & Kim, M. (2025, August 7-9). *A decade later: Revisiting LGBTQ+ partner loss and bereavement in the post-same-sex marriage era* \[Poster presentation\]. APA 2025 Convention, Denver, CO, United States.
+-   Kim, J., Kang, S., **Im, G.**, & Kim, M. (2025, August 7–9). *A decade later: Revisiting LGBTQ+ partner loss and bereavement in the post-same-sex marriage era* \[Poster presentation\]. APA 2025 Convention, Denver, CO, United States.
 
 :::
