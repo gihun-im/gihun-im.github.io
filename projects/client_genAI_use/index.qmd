@@ -19,7 +19,7 @@ filters:
 
 ## Publication Alert!
 
-This paper was accepted for publication in *American Psychologist*, the flagship journal of the American Psychological Association.
+This paper was accepted for publication in [American Psychologist](https://www.apa.org/pubs/journals/amp), the flagship journal of the American Psychological Association.
 
 :::
 
