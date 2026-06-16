@@ -6,7 +6,7 @@ subtitle: >
 about:
   id: heading
   template: solana
-  image: assets/images/prof_pic.jpg
+  image: assets/images/prof_pic_26.jpg
   image-width: 12em
   image-shape: round
 filters:
@@ -20,10 +20,10 @@ Hi there! 👋 I am a second-year PhD student in the Counseling Psychology progr
 
 My research interests lie on four key themes:
 
--   Uncovering oppression & resilience in marginalized spaces, particularly LGBTQ+ communities 🏳️‍🌈
--   Examining AI ethics and client experiences in mental health care through psychological lens 🤖
--   Developing the foundations of social justice advocacy training for practitioners 🧑‍🏫
--   Amplifying underrepresented voices through participatory research 📣
+- Uncovering oppression & resilience in marginalized spaces, particularly LGBTQ+ communities 🏳️‍🌈
+- Examining AI ethics and client experiences in mental health care through psychological lens 🤖
+- Developing the foundations of social justice advocacy training for practitioners 🧑‍🏫
+- Amplifying underrepresented voices through participatory research 📣
 
 In practice, I am passionate about exploring and discussing the complexities of multiple identities, power dynamics, oppression, and liberation in therapy.
 
