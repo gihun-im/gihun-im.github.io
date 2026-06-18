@@ -13,8 +13,7 @@ format: html
 
 **Im, G.** (2026). Ethical risk prevention in client generative AI use: Applying the primary risk-management model. *American Psychologist*. Advance online publication. <https://doi.org/10.1037/amp0001731> 
 
-**Im, G.** (under review). Outing-related threat and depression among sexual minority adults during the COVID-
-19 pandemic: Internalized homophobia and the dual role of community connectedness.
+**Im, G.** (under review). Outing-related threat and depression among sexual minority adults during the COVID-19 pandemic: Internalized homophobia and the dual role of community connectedness.
 
 Kim, I., **Im, G.**, Min, Y., & Ding, R. (under review). Ambivalent engagement with generative AI: Greater mental
 health use and concern among college students with anxiety-depression.
