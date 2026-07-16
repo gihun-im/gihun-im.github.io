@@ -19,7 +19,7 @@ filters:
 
 ## Publication Alert!
 
-This paper was accepted for publication in [American Psychologist](https://www.apa.org/pubs/journals/amp), the flagship journal of the American Psychological Association.
+This paper was published in [American Psychologist](https://psycnet.apa.org/doiLanding?doi=10.1037%2Famp0001731), the flagship journal of the American Psychological Association.
 
 :::
 
@@ -37,7 +37,7 @@ The paper concludes by discussing implications for professional training, policy
 
 ## Related Works
 
--   **Im, G.** (in-press). Ethical risk prevention in client generative AI use: Applying the primary risk-management model. *American Psychologist*.
--   **Im, G.** (2026, August 6–8). *Ethical risk prevention in client generative AI use: Applying the primary risk-management model* \[Poster presentation\]. APA 2026 Convention, Washington, DC, United States.
+- **Im, G.** (2026). Ethical risk prevention in client generative artificial intelligence (genAI) use: Applying the primary risk-management model. *American Psychologist*.
+- **Im, G.** (2026, August 6–8). *Ethical risk prevention in client generative AI use: Applying the primary risk-management model* \[Poster presentation\]. APA 2026 Convention, Washington, DC, United States.
 
 :::
