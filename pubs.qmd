@@ -11,7 +11,7 @@ format: html
 
 ## 2026
 
-**Im, G.**, & Kim, D. (in-press). Korean school counselors' counseling competencies and advocacy activities for LGBTQ+ youth: A latent profile analysis. *Current Psychology*.
+**Im, G.**, & Kim, D. (in press). Korean school counselors' counseling competencies and advocacy activities for LGBTQ+ youth: A latent profile analysis. *Current Psychology*.
 
 **Im, G.** (2026). Ethical risk prevention in client generative artificial intelligence (genAI) use: Applying the primary risk-management model. *American Psychologist*. Advance online publication. <https://doi.org/10.1037/amp0001731>
 
