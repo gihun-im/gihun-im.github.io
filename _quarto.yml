@@ -47,7 +47,6 @@ format:
     theme: 
       - darkly
       - custom.scss
-    mainfont: "Pretendard"
     fontcolor: "#ebebeb"
     linkcolor: "#70CCAE"
     toc: false
