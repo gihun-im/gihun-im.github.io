@@ -13,3 +13,8 @@ $link-hover-color: #54B98F !default;
 .nav-footer a:hover {
   color: #797979;
 }
+
+// Keep Hangul visually consistent without changing the English typography.
+:lang(ko) body {
+  font-family: "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif;
+}

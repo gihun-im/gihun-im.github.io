@@ -1,0 +1,45 @@
+---
+title: "🦄 임기훈"
+subtitle: >
+  대명사: he/him/his<br>
+  영문 이름 발음: “Ghee-hoon Eem”
+about:
+  id: heading
+  template: solana
+  image: ../assets/images/prof_pic_26.jpg
+  image-width: 12em
+  image-shape: round
+filters:
+  - highlight-text
+format:
+  html:
+    include-in-header:
+      text: |
+        <link rel="alternate" hreflang="en" href="https://gihun-im.github.io/">
+        <link rel="alternate" hreflang="ko" href="https://gihun-im.github.io/ko/">
+        <link rel="alternate" hreflang="x-default" href="https://gihun-im.github.io/">
+---
+
+::: {#heading}
+:::
+
+안녕하세요! 👋 저는 [아이오와대학교](https://education.uiowa.edu/areas-study/counseling-and-mental-health/counseling-psychology) APA 인증 상담심리학 박사과정 3년 차에 재학 중입니다. 대한민국 전문상담교사 자격을 보유하고 있으며, 미국으로 오기 전에는 서울특별시교육청 본청에서 3년간 근무했습니다. 2024년에는 [서울대학교](https://learning.snu.ac.kr)에서 교육상담 전공으로 석사학위를 받았습니다.
+
+저의 주요 연구 관심사는 다음과 같습니다.
+
+- LGBTQ+ 커뮤니티를 비롯한 소수자 공간에서의 억압과 회복탄력성 탐구 🏳️‍🌈
+- 심리학적 관점에서 정신건강 돌봄에 활용되는 인공지능의 윤리적 사용 연구 🤖
+- 실무자를 위한 사회정의 옹호 교육의 토대 개발 🧑‍🏫
+- 참여적 연구를 통한 과소대표 집단의 목소리 확산 📣
+
+상담 실제에서는 개인이 지닌 다양한 정체성, 권력관계, 억압과 해방의 복잡성을 탐색하고 함께 이야기하는 일에 관심을 두고 있습니다.
+
+[연구와 상담 실천은 사람들이 자신의 목소리를 되찾고 스스로 힘을 키워 가도록 돕는 변화의 힘을 지니고 있다고 믿습니다.]{color="#FFD479"}
+
+::: {.callout-tip appearance="simple"}
+
+## 연락하기
+
+[이메일](mailto:gihun.im@icloud.com) 또는 상단의 소셜 미디어 링크를 통해 편하게 연락해 주세요.
+
+:::

@@ -1,15 +1,13 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ko" xml:lang="ko"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Finished">
-<meta name="description" content="Co-PI: Ilhyun Bae &amp; Gihun Im">
 
-<title>Relationship Between Decent Work and Decent Education – Gihun Im</title>
+<title>🧑‍💻 연구 프로젝트 – Gihun Im</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,23 +23,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<script src="../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-8ea72dc5fed832574809a9c94082fbbb.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-d96b0fb95038b68f819f5cdd575fec93.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
-<script src="../../site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-8ea72dc5fed832574809a9c94082fbbb.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-d96b0fb95038b68f819f5cdd575fec93.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<script src="../site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -56,19 +56,49 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
+    "search-no-results-text": "일치 없음",
+    "search-matching-documents-text": "일치된 문서",
+    "search-copy-link-title": "검색 링크 복사",
+    "search-hide-matches-text": "추가 검색 결과 숨기기",
+    "search-more-match-text": "추가 검색결과",
+    "search-more-matches-text": "추가 검색결과",
+    "search-clear-button-title": "제거",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-detached-cancel-button-title": "취소",
+    "search-submit-button-title": "검색",
+    "search-label": "검색"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-projects-list .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-description','listing-image','listing-image-alt','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      page: 5,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-title","listing-author","listing-date","listing-description","listing-image","listing-image-alt","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-projects-list'] = new List('listing-projects-list', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-Z60BZ0KHGW"></script>
 
 <script type="text/javascript">
@@ -78,40 +108,72 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-Z60BZ0KHGW', { 'anonymize_ip': true});
 </script>
+<link rel="alternate" hreflang="en" href="https://gihun-im.github.io/projects.html">
+<link rel="alternate" hreflang="ko" href="https://gihun-im.github.io/ko/projects.html">
+<link rel="alternate" hreflang="x-default" href="https://gihun-im.github.io/projects.html">
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../../index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Gihun Im</span>
     </a>
   </div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="탐색 전환" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../projects.html"> 
+    <a class="nav-link" href="../projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../pubs.html"> 
+    <a class="nav-link" href="../pubs.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../assets/pdf/cv_Gihun_Im.pdf"> 
+    <a class="nav-link" href="../assets/pdf/cv_Gihun_Im.pdf"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -120,11 +182,11 @@ gtag('config', 'G-Z60BZ0KHGW', { 'anonymize_ip': true});
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-en--ko">    
         <li>
-    <a class="dropdown-item" href="../../index.html">
+    <a class="dropdown-item" href="../index.html">
  <span class="dropdown-text">English</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../ko/index.html">
+    <a class="dropdown-item" href="../ko/index.html">
  <span class="dropdown-text">한국어</span></a>
   </li>  
     </ul>
@@ -152,41 +214,21 @@ gtag('config', 'G-Z60BZ0KHGW', { 'anonymize_ip': true});
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">분류</h5><div class="quarto-listing-category category-unnumbered"><div class="category" data-category="QUklMjBFdGhpY3M=">AI Ethics</div><div class="category" data-category="QmVyZWF2ZW1lbnQ=">Bereavement</div><div class="category" data-category="Q0JP">CBO</div><div class="category" data-category="Q09WSUQtMTk=">COVID-19</div><div class="category" data-category="Q1NQ">CSP</div><div class="category" data-category="Q2FyZWVy">Career</div><div class="category" data-category="Q2hhdEdQVA==">ChatGPT</div><div class="category" data-category="Q29tbXVuaXR5LUJhc2VkJTIwSW50ZXJ2ZW50aW9u">Community-Based Intervention</div><div class="category" data-category="R2VuQUk=">GenAI</div><div class="category" data-category="TEdCVFElMkI=">LGBTQ+</div><div class="category" data-category="TWlub3JpdHklMjBTdHJlc3M=">Minority Stress</div><div class="category" data-category="UFdU">PWT</div><div class="category" data-category="UGhvdG92b2ljZQ==">Photovoice</div><div class="category" data-category="UmVzaWxpZW5jZQ==">Resilience</div><div class="category" data-category="WW91dGg=">Youth</div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Relationship Between Decent Work and Decent Education</h1>
-  <div class="quarto-categories">
-    <div class="quarto-category">Career</div>
-    <div class="quarto-category">PWT</div>
-  </div>
-  </div>
-
-<div>
-  <div class="description">
-    Co-PI: Ilhyun Bae &amp; Gihun Im
-  </div>
+<h1 class="title">🧑‍💻 연구 프로젝트</h1>
 </div>
+
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">state</div>
-    <div class="quarto-title-meta-contents">
-             <p>Finished </p>
-          </div>
-  </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">started</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">Jan 2024</p>
-    </div>
-  </div>
   
     
   </div>
@@ -196,55 +238,316 @@ gtag('config', 'G-Z60BZ0KHGW', { 'anonymize_ip': true});
 </header>
 
 
-<div class="callout callout-style-simple callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
+<p>현재 연구 프로젝트의 제목만 한국어로 제공됩니다. 각 프로젝트를 선택하면 영문 상세 페이지로 이동합니다.</p>
+<div id="listing-projects-list" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Q2hhdEdQVCUyQ0dlbkFJ" data-listing-date-sort="1767247200000">
+<div class="thumbnail">
+<p><a href="../projects/chatgpt_metaanalysis/index.html" class="no-external"></a></p><a href="../projects/chatgpt_metaanalysis/index.html" class="no-external">
+<p><img loading="lazy" src="../projects/chatgpt_metaanalysis/chatgpt.jpg" class="thumbnail-image" alt="정신건강 지원을 위한 ChatGPT 사용 경험"></p>
+</a><p><a href="../projects/chatgpt_metaanalysis/index.html" class="no-external"></a></p>
 </div>
-<div class="callout-title-container flex-fill">
-Award Alert!
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../projects/chatgpt_metaanalysis/index.html" class="no-external">정신건강 지원을 위한 ChatGPT 사용 경험</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../projects/chatgpt_metaanalysis/index.html" class="no-external"></a>
 </div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Q2hhdEdQVA=='); return false;">
+ChatGPT
 </div>
-<div class="callout-body-container callout-body">
-<p>This project was awarded the <strong>Distinguished Student Research Award</strong> by Korea Employment Information Service in 2024.</p>
-</div>
-</div>
-<div class="quarto-figure quarto-figure-center" style="text-align: center">
-<figure class="figure">
-<p><img src="decentedu.png" class="img-fluid figure-img" width="600"></p>
-<figcaption>Decent education within PWT model (Duffy et al., 2022)</figcaption>
-</figure>
-</div>
-<p>The recent expansion of the psychology of working theory (PWT; <a href="https://www.sciencedirect.com/science/article/abs/pii/S0001879122000823">Duffy et al., 2022</a>)<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> introduces the concept of <strong>decent education</strong> to more fully explain how educational experiences influence career outcomes and overall well-being. Decent education encompasses not only formal schooling but also access to skill development, vocational training, and other learning opportunities that enable individuals to secure stable and meaningful employment. Within this framework, decent education functions as a foundation that equips people with the resources, knowledge, and competencies needed to navigate the labor market effectively.</p>
-<p>In this study, we applied the expanded PWT model to young adults in South Korea to examine whether pathways to decent work differ by gender. Our analysis focused on whether work volition and career adaptability mediate the link between decent education and decent work. Data were drawn from the <em>Youth Panel Survey 2021</em> (<a href="https://survey.keis.or.kr/eng/yp/yp01.jsp">Hwang et al., 2021</a>)<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>, which included 3,403 Korean young adults employed in regular positions (정규직 in Korean). The sample comprised 1,901 women and 1,502 men, with a mean age of 25.32 years.</p>
-<p><span style="color: #FFD479;">We are currently preparing for submission based on the analyzed results.</span></p>
-<div class="callout callout-style-simple callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Related Works
+<div class="listing-category" onclick="window.quartoListingCategory('R2VuQUk='); return false;">
+GenAI
 </div>
 </div>
-<div class="callout-body-container callout-body">
-<ul>
-<li>Bae, I., &amp; <strong>Im, G.</strong> (in preparation). Relationship between decent education and decent work for youth: Mediating effects of work volition and career adaptability.</li>
-<li>Bae, I., &amp; <strong>Im, G.</strong> (2024, June 5). <em>Relationship between decent education and decent work for youth: Mediating effects of work volition and career adaptability</em> [Paper presentation]. 2024 Employment Survey Conference, Seoul, South Korea.</li>
-</ul>
+<div class="listing-description">
+<a href="../projects/chatgpt_metaanalysis/index.html" class="no-external">PI: Gihun Im</a>
 </div>
+</div>
+<div class="metadata">
+<a href="../projects/chatgpt_metaanalysis/index.html" class="no-external">
+<div class="listing-date">
+1월 2026
+</div>
+<div class="listing-author">
+Ongoing
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="Q0JPJTJDQ1NQ" data-listing-date-sort="1756702800000">
+<div class="thumbnail">
+<p><a href="../projects/Spencer/index.html" class="no-external"></a></p><a href="../projects/Spencer/index.html" class="no-external">
+<p><img loading="lazy" src="../projects/Spencer/community.jpg" class="thumbnail-image" alt="지역사회 지원과 대학에서의 성공"></p>
+</a><p><a href="../projects/Spencer/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../projects/Spencer/index.html" class="no-external">지역사회 지원과 대학에서의 성공</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../projects/Spencer/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Q0JP'); return false;">
+CBO
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Q1NQ'); return false;">
+CSP
+</div>
+</div>
+<div class="listing-description">
+<a href="../projects/Spencer/index.html" class="no-external">PI: Amanda S. Case, Ph.D.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../projects/Spencer/index.html" class="no-external">
+<div class="listing-date">
+9월 2025
+</div>
+<div class="listing-author">
+Ongoing
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="TEdCVFElMkIlMkNQaG90b3ZvaWNl" data-listing-date-sort="1751346000000">
+<div class="thumbnail">
+<p><a href="../projects/LGBTQ+ photovoice/index.html" class="no-external"></a></p><a href="../projects/LGBTQ+ photovoice/index.html" class="no-external">
+<p><img loading="lazy" src="../projects/LGBTQ+ photovoice/qtq.png" class="thumbnail-image" alt="한국 LGBTQ+ 교사의 경험: 포토보이스 연구"></p>
+</a><p><a href="../projects/LGBTQ+ photovoice/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../projects/LGBTQ+ photovoice/index.html" class="no-external">한국 LGBTQ+ 교사의 경험: 포토보이스 연구</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../projects/LGBTQ+ photovoice/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('TEdCVFElMkI='); return false;">
+LGBTQ+
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('UGhvdG92b2ljZQ=='); return false;">
+Photovoice
+</div>
+</div>
+<div class="listing-description">
+<a href="../projects/LGBTQ+ photovoice/index.html" class="no-external">PI: Gihun Im</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../projects/LGBTQ+ photovoice/index.html" class="no-external">
+<div class="listing-date">
+7월 2025
+</div>
+<div class="listing-author">
+Ongoing
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="Q29tbXVuaXR5LUJhc2VkJTIwSW50ZXJ2ZW50aW9uJTJDUmVzaWxpZW5jZSUyQ1lvdXRo" data-listing-date-sort="1746075600000">
+<div class="thumbnail">
+<p><a href="../projects/CBI/index.html" class="no-external"></a></p><a href="../projects/CBI/index.html" class="no-external">
+<p><img loading="lazy" src="../projects/CBI/youth.jpg" class="thumbnail-image" alt="청소년 회복탄력성을 위한 지역사회 기반 개입"></p>
+</a><p><a href="../projects/CBI/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../projects/CBI/index.html" class="no-external">청소년 회복탄력성을 위한 지역사회 기반 개입</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../projects/CBI/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Q29tbXVuaXR5LUJhc2VkJTIwSW50ZXJ2ZW50aW9u'); return false;">
+Community-Based Intervention
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('UmVzaWxpZW5jZQ=='); return false;">
+Resilience
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('WW91dGg='); return false;">
+Youth
+</div>
+</div>
+<div class="listing-description">
+<a href="../projects/CBI/index.html" class="no-external">PI: Yinmayue Tang</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../projects/CBI/index.html" class="no-external">
+<div class="listing-date">
+5월 2025
+</div>
+<div class="listing-author">
+Ongoing
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="Q09WSUQtMTklMkNMR0JUUSUyQiUyQ01pbm9yaXR5JTIwU3RyZXNz" data-listing-date-sort="1717218000000">
+<div class="thumbnail">
+<p><a href="../projects/LGBTQ+_COVID-19/index.html" class="no-external"></a></p><a href="../projects/LGBTQ+_COVID-19/index.html" class="no-external">
+<p><img loading="lazy" src="../projects/LGBTQ+_COVID-19/dawoom.png" class="thumbnail-image" alt="코로나19 팬데믹 시기 LGBTQ+ 구성원의 소수자 스트레스 요인과 보호요인"></p>
+</a><p><a href="../projects/LGBTQ+_COVID-19/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../projects/LGBTQ+_COVID-19/index.html" class="no-external">코로나19 팬데믹 시기 LGBTQ+ 구성원의 소수자 스트레스 요인과 보호요인</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../projects/LGBTQ+_COVID-19/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Q09WSUQtMTk='); return false;">
+COVID-19
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('TEdCVFElMkI='); return false;">
+LGBTQ+
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('TWlub3JpdHklMjBTdHJlc3M='); return false;">
+Minority Stress
+</div>
+</div>
+<div class="listing-description">
+<a href="../projects/LGBTQ+_COVID-19/index.html" class="no-external">PI: Gihun Im</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../projects/LGBTQ+_COVID-19/index.html" class="no-external">
+<div class="listing-date">
+6월 2024
+</div>
+<div class="listing-author">
+Ongoing
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-categories="QUklMjBFdGhpY3MlMkNHZW5BSQ==" data-listing-date-sort="1764568800000">
+<div class="thumbnail">
+<p><a href="../projects/client_genAI_use/index.html" class="no-external"></a></p><a href="../projects/client_genAI_use/index.html" class="no-external">
+<p><img loading="lazy" data-src="../projects/client_genAI_use/genai.jpg" class="thumbnail-image" alt="내담자의 생성형 AI 활용에 대한 윤리적 위험관리"></p>
+</a><p><a href="../projects/client_genAI_use/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../projects/client_genAI_use/index.html" class="no-external">내담자의 생성형 AI 활용에 대한 윤리적 위험관리</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../projects/client_genAI_use/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('QUklMjBFdGhpY3M='); return false;">
+AI Ethics
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('R2VuQUk='); return false;">
+GenAI
+</div>
+</div>
+<div class="listing-description">
+<a href="../projects/client_genAI_use/index.html" class="no-external">PI: Gihun Im</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../projects/client_genAI_use/index.html" class="no-external">
+<div class="listing-date">
+12월 2025
+</div>
+<div class="listing-author">
+Finished
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-categories="QmVyZWF2ZW1lbnQlMkNMR0JUUSUyQg==" data-listing-date-sort="1733032800000">
+<div class="thumbnail">
+<p><a href="../projects/bereavement/index.html" class="no-external"></a></p><a href="../projects/bereavement/index.html" class="no-external">
+<p><img loading="lazy" data-src="../projects/bereavement/grief.jpg" class="thumbnail-image" alt="LGBTQ+ 파트너 사별"></p>
+</a><p><a href="../projects/bereavement/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../projects/bereavement/index.html" class="no-external">LGBTQ+ 파트너 사별</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../projects/bereavement/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('QmVyZWF2ZW1lbnQ='); return false;">
+Bereavement
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('TEdCVFElMkI='); return false;">
+LGBTQ+
+</div>
+</div>
+<div class="listing-description">
+<a href="../projects/bereavement/index.html" class="no-external">In collaboration with EE-MM members</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../projects/bereavement/index.html" class="no-external">
+<div class="listing-date">
+12월 2024
+</div>
+<div class="listing-author">
+Finished
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="7" data-categories="Q2FyZWVyJTJDUFdU" data-listing-date-sort="1704088800000">
+<div class="thumbnail">
+<p><a href="../projects/PWT_decentedu/index.html" class="no-external"></a></p><a href="../projects/PWT_decentedu/index.html" class="no-external">
+<p><img loading="lazy" data-src="../projects/PWT_decentedu/decentedu.png" class="thumbnail-image" alt="괜찮은 일과 괜찮은 교육의 관계"></p>
+</a><p><a href="../projects/PWT_decentedu/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../projects/PWT_decentedu/index.html" class="no-external">괜찮은 일과 괜찮은 교육의 관계</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../projects/PWT_decentedu/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Q2FyZWVy'); return false;">
+Career
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('UFdU'); return false;">
+PWT
+</div>
+</div>
+<div class="listing-description">
+<a href="../projects/PWT_decentedu/index.html" class="no-external">Co-PI: Ilhyun Bae &amp; Gihun Im</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../projects/PWT_decentedu/index.html" class="no-external">
+<div class="listing-date">
+1월 2024
+</div>
+<div class="listing-author">
+Finished
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+일치 없음
+</div>
+<nav id="projects-list-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div>
 
 
 
 
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Duffy, R. D., Kim, H. J., Perez, G., Prieto, C. G., Torgal, C., &amp; Kenny, M. E. (2022). Decent education as a precursor to decent work: An overview and construct conceptualization. <em>Journal of Vocational Behavior</em>, <em>138</em>, 103771.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2"><p>Hwang, G., Gong, J., Cho, Y., Jung, K., &amp; Cho, C. (2021). <em>Youth Panel Survey 2021</em>. Korea Employment Information Service.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section></div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -288,12 +591,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // flash "checked"
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
+    button.setAttribute("title", "복사완료!");
     let tooltip;
     if (window.bootstrap) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
+      button.setAttribute("data-bs-title", "복사완료!");
       tooltip = new bootstrap.Tooltip(button, 
         { trigger: "manual", 
           customClass: "code-copy-button-tooltip",

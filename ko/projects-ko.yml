@@ -1,0 +1,71 @@
+- title: "청소년 회복탄력성을 위한 지역사회 기반 개입"
+  author: "Ongoing"
+  date: "2025-05"
+  description: "PI: Yinmayue Tang"
+  image: "../projects/CBI/youth.jpg"
+  image-alt: "청소년 회복탄력성을 위한 지역사회 기반 개입"
+  path: "../projects/CBI/index.html"
+  categories: [Community-Based Intervention, Resilience, Youth]
+
+- title: "한국 LGBTQ+ 교사의 경험: 포토보이스 연구"
+  author: "Ongoing"
+  date: "2025-07"
+  description: "PI: Gihun Im"
+  image: "../projects/LGBTQ+ photovoice/qtq.png"
+  image-alt: "한국 LGBTQ+ 교사의 경험: 포토보이스 연구"
+  path: "../projects/LGBTQ+ photovoice/index.html"
+  categories: [LGBTQ+, Photovoice]
+
+- title: "코로나19 팬데믹 시기 LGBTQ+ 구성원의 소수자 스트레스 요인과 보호요인"
+  author: "Ongoing"
+  date: "2024-06"
+  description: "PI: Gihun Im"
+  image: "../projects/LGBTQ+_COVID-19/dawoom.png"
+  image-alt: "코로나19 팬데믹 시기 LGBTQ+ 구성원의 소수자 스트레스 요인과 보호요인"
+  path: "../projects/LGBTQ+_COVID-19/index.html"
+  categories: [COVID-19, LGBTQ+, Minority Stress]
+
+- title: "괜찮은 일과 괜찮은 교육의 관계"
+  author: "Finished"
+  date: "2024-01"
+  description: "Co-PI: Ilhyun Bae & Gihun Im"
+  image: "../projects/PWT_decentedu/decentedu.png"
+  image-alt: "괜찮은 일과 괜찮은 교육의 관계"
+  path: "../projects/PWT_decentedu/index.html"
+  categories: [Career, PWT]
+
+- title: "지역사회 지원과 대학에서의 성공"
+  author: "Ongoing"
+  date: "2025-09"
+  description: "PI: Amanda S. Case, Ph.D."
+  image: "../projects/Spencer/community.jpg"
+  image-alt: "지역사회 지원과 대학에서의 성공"
+  path: "../projects/Spencer/index.html"
+  categories: [CBO, CSP]
+
+- title: "LGBTQ+ 파트너 사별"
+  author: "Finished"
+  date: "2024-12"
+  description: "In collaboration with EE-MM members"
+  image: "../projects/bereavement/grief.jpg"
+  image-alt: "LGBTQ+ 파트너 사별"
+  path: "../projects/bereavement/index.html"
+  categories: [Bereavement, LGBTQ+]
+
+- title: "정신건강 지원을 위한 ChatGPT 사용 경험"
+  author: "Ongoing"
+  date: "2026-01"
+  description: "PI: Gihun Im"
+  image: "../projects/chatgpt_metaanalysis/chatgpt.jpg"
+  image-alt: "정신건강 지원을 위한 ChatGPT 사용 경험"
+  path: "../projects/chatgpt_metaanalysis/index.html"
+  categories: [ChatGPT, GenAI]
+
+- title: "내담자의 생성형 AI 활용에 대한 윤리적 위험관리"
+  author: "Finished"
+  date: "2025-12"
+  description: "PI: Gihun Im"
+  image: "../projects/client_genAI_use/genai.jpg"
+  image-alt: "내담자의 생성형 AI 활용에 대한 윤리적 위험관리"
+  path: "../projects/client_genAI_use/index.html"
+  categories: [AI Ethics, GenAI]

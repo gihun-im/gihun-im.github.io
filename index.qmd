@@ -11,6 +11,13 @@ about:
   image-shape: round
 filters:
   - highlight-text
+format:
+  html:
+    include-in-header:
+      text: |
+        <link rel="alternate" hreflang="en" href="https://gihun-im.github.io/">
+        <link rel="alternate" hreflang="ko" href="https://gihun-im.github.io/ko/">
+        <link rel="alternate" hreflang="x-default" href="https://gihun-im.github.io/">
 ---
 
 ::: {#heading}

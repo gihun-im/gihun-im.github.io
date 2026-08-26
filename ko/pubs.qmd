@@ -1,5 +1,5 @@
 ---
-title: "📑 Publications"
+title: "📑 연구 실적"
 format:
   html:
     include-in-header:
@@ -9,11 +9,9 @@ format:
         <link rel="alternate" hreflang="x-default" href="https://gihun-im.github.io/pubs.html">
 ---
 
-- You can also explore my work on [Google Scholar](https://scholar.google.com/citations?user=TgdOb8MAAAAJ).
-- Some of the work may be available on [ResearchGate](https://www.researchgate.net/profile/Gihun-Im) in its accepted version.
-- \[KCI\] denotes the [Korean Citation Index](https://www.kci.go.kr/kciportal/main.kci?locale=en), indicating that the article is in Korean.
-
-\
+- 전체 연구 실적은 [Google Scholar](https://scholar.google.com/citations?user=TgdOb8MAAAAJ)에서도 확인할 수 있습니다.
+- 일부 논문의 게재 승인본은 [ResearchGate](https://www.researchgate.net/profile/Gihun-Im)에서 제공될 수 있습니다.
+- \[KCI\]는 [한국학술지인용색인](https://www.kci.go.kr/kciportal/main.kci)을 의미하며, 해당 논문이 한국어로 작성되었음을 나타냅니다.
 
 ## 2026
 

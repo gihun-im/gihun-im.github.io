@@ -1,8 +1,9 @@
 ---
-title: "🧑‍💻 Projects"
+title: "🧑‍💻 연구 프로젝트"
 listing:
-  contents: "projects/**/index.qmd"
-  sort: 
+  id: projects-list
+  contents: projects-ko.yml
+  sort:
     - "author desc"
     - "date desc"
     - "title"
@@ -11,13 +12,11 @@ listing:
   categories: unnumbered
   sort-ui: false
   filter-ui: false
-  feed: true
   page-size: 5
   field-display-names:
     title: "Project"
     date: "Started"
     author: "State"
-title-block-banner: false
 format:
   html:
     include-in-header:
@@ -26,3 +25,8 @@ format:
         <link rel="alternate" hreflang="ko" href="https://gihun-im.github.io/ko/projects.html">
         <link rel="alternate" hreflang="x-default" href="https://gihun-im.github.io/projects.html">
 ---
+
+현재 연구 프로젝트의 제목만 한국어로 제공됩니다. 각 프로젝트를 선택하면 영문 상세 페이지로 이동합니다.
+
+::: {#projects-list}
+:::

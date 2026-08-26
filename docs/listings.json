@@ -1,5 +1,18 @@
 [
   {
+    "listing": "/ko/projects.html",
+    "items": []
+  },
+  {
+    "listing": "/archive/publications.html",
+    "items": [
+      "/archive/pubs/im2024.html",
+      "/archive/pubs/dkimjpark2025_1.html",
+      "/archive/pubs/dkimjpark2025_2.html",
+      "/archive/pubs/dkim2023.html"
+    ]
+  },
+  {
     "listing": "/projects.html",
     "items": [
       "/projects/chatgpt_metaanalysis/index.html",
@@ -10,15 +23,6 @@
       "/projects/client_genAI_use/index.html",
       "/projects/bereavement/index.html",
       "/projects/PWT_decentedu/index.html"
-    ]
-  },
-  {
-    "listing": "/archive/publications.html",
-    "items": [
-      "/archive/pubs/im2024.html",
-      "/archive/pubs/dkimjpark2025_1.html",
-      "/archive/pubs/dkimjpark2025_2.html",
-      "/archive/pubs/dkim2023.html"
     ]
   }
 ]

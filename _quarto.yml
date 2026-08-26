@@ -21,11 +21,20 @@ website:
         href: pubs.qmd
       - text: CV
         href: assets/pdf/cv_Gihun_Im.pdf
+      - text: "EN / KO"
+        menu:
+          - text: English
+            href: index.qmd
+          - text: 한국어
+            href: ko/index.qmd
       - text: "{{< iconify fa6-solid:envelope >}}"
+        aria-label: Email
         href: "mailto:gihun.im@icloud.com"
       - text: "{{< iconify fa6-brands:linkedin >}}"
+        aria-label: LinkedIn
         href: "https://www.linkedin.com/in/gihun-im-7a2367210/"
       - text: "{{< iconify fa6-brands:github-alt>}}"
+        aria-label: GitHub
         href: "https://github.com/gihun-im"
 
 format:
@@ -42,6 +51,8 @@ format:
           <script type="text/javascript">
             document.getElementById('current-year').textContent = new Date().getFullYear();
           </script>
+      - file: assets/language-switcher.html
 
 editor: visual
 
+lang: en
