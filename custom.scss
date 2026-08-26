@@ -36,6 +36,61 @@ body {
   letter-spacing: -0.01em;
 }
 
+// Balance title spacing between About and standard pages.
+@media (min-width: 992px) {
+  div.quarto-about-solana {
+    padding-top: 0.75em !important;
+  }
+
+  main.content > header#title-block-header {
+    margin-top: 0.75em;
+  }
+
+  #quarto-margin-sidebar {
+    padding-top: 0.75em;
+  }
+
+  html[lang="en"] #quarto-margin-sidebar .quarto-listing-category-title {
+    margin-top: 5.2em;
+  }
+
+  html[lang="ko"] #quarto-margin-sidebar .quarto-listing-category-title {
+    margin-top: 11.7em;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  div.quarto-about-solana {
+    padding-top: 2em !important;
+  }
+
+  main.content > header#title-block-header {
+    margin-top: 1.25em;
+  }
+
+  #quarto-margin-sidebar {
+    padding-top: 1.25em;
+  }
+
+  html[lang="en"] #quarto-margin-sidebar .quarto-listing-category-title {
+    margin-top: 4.2em;
+  }
+
+  html[lang="ko"] #quarto-margin-sidebar .quarto-listing-category-title {
+    margin-top: 10.7em;
+  }
+}
+
+@media (max-width: 767.98px) {
+  div.quarto-about-solana {
+    padding-top: 1.75em !important;
+  }
+
+  main.content > header#title-block-header {
+    margin-top: 1em;
+  }
+}
+
 // Embedded CV page
 .cv-viewer {
   display: block;
