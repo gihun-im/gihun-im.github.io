@@ -16,18 +16,12 @@ $link-hover-color: #54B98F !default;
   color: #797979;
 }
 
-// Remove Bootstrap's blue focus glow from the language menu.
+// Remove focus outlines and Bootstrap's blue glow from the language menu.
 #nav-menu-en--ko:focus,
 #nav-menu-en--ko:active,
-#nav-menu-en--ko.show {
-  outline: none;
-  box-shadow: none;
-}
-
-// Keep a restrained keyboard-only focus indicator for accessibility.
+#nav-menu-en--ko.show,
 #nav-menu-en--ko:focus-visible {
-  outline: 1px solid #54B98F;
-  outline-offset: 2px;
+  outline: none;
   box-shadow: none;
 }
 

@@ -38,7 +38,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-8ea72dc5fed832574809a9c94082fbbb.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-1b294d2474d71506af2844f8111dc298.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-4c898b6f0d911fa9f79105ef50fee679.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script src="../site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -652,17 +652,22 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     document.querySelectorAll(".navbar-nav .nav-link").forEach((link) => {
       const label = link.textContent.trim();
       if (!isKorean) return;
-      if (label === "About") {
-        link.textContent = "소개";
-        link.href = "index.html";
-      } else if (label === "Projects") {
-        link.textContent = "연구 프로젝트";
-        link.href = "projects.html";
-      } else if (label === "Publications") {
-        link.textContent = "연구 실적";
-        link.href = "pubs.html";
-      } else if (label === "CV") {
-        link.textContent = "이력서";
+      const koreanNavigation = {
+        "About": { text: "소개", href: "index.html" },
+        "Projects": { text: "연구 프로젝트", href: "projects.html" },
+        "Publications": { text: "연구 실적", href: "pubs.html" },
+        "CV": { text: "이력서" }
+      };
+      const navigationItem = koreanNavigation[label];
+
+      if (navigationItem) {
+        link.textContent = navigationItem.text;
+        if (navigationItem.href) link.href = navigationItem.href;
+
+        if (navigationItem.href === currentFile) {
+          link.classList.add("active");
+          link.setAttribute("aria-current", "page");
+        }
       }
     });
 
