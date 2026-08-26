@@ -16,6 +16,21 @@ $link-hover-color: #54B98F !default;
   color: #797979;
 }
 
+// Remove Bootstrap's blue focus glow from the language menu.
+#nav-menu-en--ko:focus,
+#nav-menu-en--ko:active,
+#nav-menu-en--ko.show {
+  outline: none;
+  box-shadow: none;
+}
+
+// Keep a restrained keyboard-only focus indicator for accessibility.
+#nav-menu-en--ko:focus-visible {
+  outline: 1px solid #54B98F;
+  outline-offset: 2px;
+  box-shadow: none;
+}
+
 // Use one cross-platform type system for both English and Korean pages.
 body {
   font-family: Pretendard, -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif;
