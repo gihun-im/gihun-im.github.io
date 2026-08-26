@@ -26,7 +26,8 @@ format:
         <link rel="alternate" hreflang="x-default" href="https://gihun-im.github.io/projects.html">
 ---
 
-- 연구 프로젝트의 제목만 한국어로 제공되는 점 양해 바랍니다. 프로젝트 제목을 클릭하면 영문 상세 페이지로 이동합니다.
+- 연구 프로젝트의 제목만 한국어로 제공되는 점 양해 바랍니다. 
+- 프로젝트 제목을 클릭하면 영문 상세 페이지로 이동합니다.
 
 \
 
