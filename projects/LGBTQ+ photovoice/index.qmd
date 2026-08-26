@@ -1,7 +1,7 @@
 ---
 title: "LGBTQ+ Educators in South Korea: A Photovoice Study"
 date: "2025-07"
-author: "Ongoing"
+author: "Finished"
 date-format: "MMM YYYY"
 published-title: "started"
 author-title: "state"

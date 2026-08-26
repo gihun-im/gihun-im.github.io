@@ -15,13 +15,13 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/chatgpt_metaanalysis/index.html",
       "/projects/Spencer/index.html",
-      "/projects/LGBTQ+ photovoice/index.html",
       "/projects/CBI/index.html",
-      "/projects/LGBTQ+_COVID-19/index.html",
+      "/projects/chatgpt_metaanalysis/index.html",
       "/projects/client_genAI_use/index.html",
+      "/projects/LGBTQ+ photovoice/index.html",
       "/projects/bereavement/index.html",
+      "/projects/LGBTQ+_COVID-19/index.html",
       "/projects/PWT_decentedu/index.html"
     ]
   }
