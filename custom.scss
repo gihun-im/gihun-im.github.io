@@ -21,6 +21,31 @@ body.nav-fixed {
   height: 1em;
 }
 
+// Show the final Korean labels before the localization script runs.
+html[lang="ko"] .navbar-nav > .nav-item:nth-child(-n + 4) .menu-text {
+  font-size: 0;
+}
+
+html[lang="ko"] .navbar-nav > .nav-item:nth-child(1) .menu-text::after {
+  content: "소개";
+  font-size: 1rem;
+}
+
+html[lang="ko"] .navbar-nav > .nav-item:nth-child(2) .menu-text::after {
+  content: "연구 프로젝트";
+  font-size: 1rem;
+}
+
+html[lang="ko"] .navbar-nav > .nav-item:nth-child(3) .menu-text::after {
+  content: "연구 실적";
+  font-size: 1rem;
+}
+
+html[lang="ko"] .navbar-nav > .nav-item:nth-child(4) .menu-text::after {
+  content: "이력서";
+  font-size: 1rem;
+}
+
 .nav-footer a {
   text-decoration: none;
 }

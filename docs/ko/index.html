@@ -37,7 +37,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-8ea72dc5fed832574809a9c94082fbbb.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-c8939ab991eff4add83fc5ce2b9340cf.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-834506f18800140aecdb2d0eda2c810b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script src="../site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -631,7 +631,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </footer>
 <script type="text/javascript">
-  document.addEventListener("DOMContentLoaded", () => {
+  (() => {
     const isKorean = document.documentElement.lang.toLowerCase().startsWith("ko");
     const pagePairs = {
       "index.html": { english: "index.html", korean: "ko/index.html" },
@@ -676,7 +676,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (label === "English") link.href = isKorean ? englishTarget : currentFile;
       if (label === "한국어") link.href = isKorean ? currentFile : koreanTarget;
     });
-  });
+  })();
 </script>
 <script type="text/javascript">
   document.getElementById('current-year').textContent = new Date().getFullYear();

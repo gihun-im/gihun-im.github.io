@@ -1,5 +1,5 @@
 <script type="text/javascript">
-  document.addEventListener("DOMContentLoaded", () => {
+  (() => {
     const isKorean = document.documentElement.lang.toLowerCase().startsWith("ko");
     const pagePairs = {
       "index.html": { english: "index.html", korean: "ko/index.html" },
@@ -44,5 +44,5 @@
       if (label === "English") link.href = isKorean ? englishTarget : currentFile;
       if (label === "한국어") link.href = isKorean ? currentFile : koreanTarget;
     });
-  });
+  })();
 </script>
