@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "projects/**/*.qmd"
+    - "ko/*.qmd"
+    - "!archive/**"
 
 website:
   title: "Gihun Im"

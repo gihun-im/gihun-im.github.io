@@ -639,15 +639,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <script type="text/javascript">
   document.addEventListener("DOMContentLoaded", () => {
     const isKorean = document.documentElement.lang.toLowerCase().startsWith("ko");
-    const translatedPages = new Set(["index.html", "projects.html", "pubs.html"]);
+    const pagePairs = {
+      "index.html": { english: "index.html", korean: "ko/index.html" },
+      "projects.html": { english: "projects.html", korean: "ko/projects.html" },
+      "pubs.html": { english: "pubs.html", korean: "ko/pubs.html" }
+    };
     const offset = document.querySelector('meta[name="quarto:offset"]')?.content || "./";
     const pathParts = window.location.pathname.split("/").filter(Boolean);
     const currentFile = pathParts.at(-1)?.endsWith(".html") ? pathParts.at(-1) : "index.html";
-    const isTopLevelEnglishPage = !isKorean && offset === "./" && translatedPages.has(currentFile);
-    const englishTarget = isKorean ? `${offset}${currentFile}` : currentFile;
+    const currentPair = pagePairs[currentFile];
+    const isTranslatedEnglishPage = !isKorean && offset === "./" && currentPair;
+    const englishTarget = isKorean && currentPair ? `${offset}${currentPair.english}` : currentFile;
     const koreanTarget = isKorean
       ? currentFile
-      : (isTopLevelEnglishPage ? `ko/${currentFile}` : `${offset}ko/index.html`);
+      : (isTranslatedEnglishPage ? currentPair.korean : `${offset}ko/index.html`);
 
     document.querySelectorAll(".navbar-nav .nav-link").forEach((link) => {
       const label = link.textContent.trim();

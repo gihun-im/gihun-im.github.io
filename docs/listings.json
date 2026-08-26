@@ -4,15 +4,6 @@
     "items": []
   },
   {
-    "listing": "/archive/publications.html",
-    "items": [
-      "/archive/pubs/im2024.html",
-      "/archive/pubs/dkimjpark2025_1.html",
-      "/archive/pubs/dkimjpark2025_2.html",
-      "/archive/pubs/dkim2023.html"
-    ]
-  },
-  {
     "listing": "/projects.html",
     "items": [
       "/projects/Spencer/index.html",
