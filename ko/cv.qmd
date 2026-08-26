@@ -1,0 +1,21 @@
+---
+title: "📋 이력서"
+resources:
+  - ../assets/pdf/cv_Gihun_Im.pdf
+format:
+  html:
+    page-layout: full
+    include-in-header:
+      text: |
+        <link rel="alternate" hreflang="en" href="https://gihun-im.github.io/cv.html">
+        <link rel="alternate" hreflang="ko" href="https://gihun-im.github.io/ko/cv.html">
+        <link rel="alternate" hreflang="x-default" href="https://gihun-im.github.io/cv.html">
+---
+
+- 기기에서 PDF가 제대로 출력되지 않을 경우, [여기](../assets/pdf/cv_Gihun_Im.pdf)를 클릭해 이력서를 확인하세요.
+
+\
+
+<object class="cv-viewer" data="../assets/pdf/cv_Gihun_Im.pdf#view=FitH" type="application/pdf" aria-label="임기훈의 이력서">
+  <p>브라우저에서 PDF를 표시할 수 없습니다. <a href="../assets/pdf/cv_Gihun_Im.pdf">PDF 이력서를 열어주세요</a>.</p>
+</object>

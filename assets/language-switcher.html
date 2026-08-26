@@ -4,7 +4,8 @@
     const pagePairs = {
       "index.html": { english: "index.html", korean: "ko/index.html" },
       "projects.html": { english: "projects.html", korean: "ko/projects.html" },
-      "pubs.html": { english: "pubs.html", korean: "ko/pubs.html" }
+      "pubs.html": { english: "pubs.html", korean: "ko/pubs.html" },
+      "cv.html": { english: "cv.html", korean: "ko/cv.html" }
     };
     const offset = document.querySelector('meta[name="quarto:offset"]')?.content || "./";
     const pathParts = window.location.pathname.split("/").filter(Boolean);
@@ -23,7 +24,7 @@
         "About": { text: "소개", href: "index.html" },
         "Projects": { text: "연구 프로젝트", href: "projects.html" },
         "Publications": { text: "연구 실적", href: "pubs.html" },
-        "CV": { text: "이력서" }
+        "CV": { text: "이력서", href: "cv.html" }
       };
       const navigationItem = koreanNavigation[label];
 

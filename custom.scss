@@ -29,3 +29,21 @@ $link-hover-color: #54B98F !default;
 body {
   font-family: Pretendard, -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif;
 }
+
+// Embedded CV page
+.cv-viewer {
+  display: block;
+  width: 100%;
+  height: 78vh;
+  min-height: 40rem;
+  border: 1px solid rgba(235, 235, 235, 0.2);
+  border-radius: 0.25rem;
+  background: #fff;
+}
+
+@media (max-width: 576px) {
+  .cv-viewer {
+    height: 65vh;
+    min-height: 28rem;
+  }
+}

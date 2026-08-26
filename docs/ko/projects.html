@@ -40,7 +40,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-8ea72dc5fed832574809a9c94082fbbb.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-4c898b6f0d911fa9f79105ef50fee679.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-86879b2d15d7db78dae7cca885193d04.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script src="../site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -173,7 +173,7 @@ window.Quarto = {
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../assets/pdf/cv_Gihun_Im.pdf"> 
+    <a class="nav-link" href="../cv.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -990,7 +990,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     const pagePairs = {
       "index.html": { english: "index.html", korean: "ko/index.html" },
       "projects.html": { english: "projects.html", korean: "ko/projects.html" },
-      "pubs.html": { english: "pubs.html", korean: "ko/pubs.html" }
+      "pubs.html": { english: "pubs.html", korean: "ko/pubs.html" },
+      "cv.html": { english: "cv.html", korean: "ko/cv.html" }
     };
     const offset = document.querySelector('meta[name="quarto:offset"]')?.content || "./";
     const pathParts = window.location.pathname.split("/").filter(Boolean);
@@ -1009,7 +1010,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         "About": { text: "소개", href: "index.html" },
         "Projects": { text: "연구 프로젝트", href: "projects.html" },
         "Publications": { text: "연구 실적", href: "pubs.html" },
-        "CV": { text: "이력서" }
+        "CV": { text: "이력서", href: "cv.html" }
       };
       const navigationItem = koreanNavigation[label];
 

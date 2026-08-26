@@ -1,0 +1,22 @@
+---
+title: "📋 CV"
+title-block-banner: false
+resources:
+  - assets/pdf/cv_Gihun_Im.pdf
+format:
+  html:
+    page-layout: full
+    include-in-header:
+      text: |
+        <link rel="alternate" hreflang="en" href="https://gihun-im.github.io/cv.html">
+        <link rel="alternate" hreflang="ko" href="https://gihun-im.github.io/ko/cv.html">
+        <link rel="alternate" hreflang="x-default" href="https://gihun-im.github.io/cv.html">
+---
+
+- If the embedded viewer does not appear on your device, click [here](assets/pdf/cv_Gihun_Im.pdf) to open the CV.
+
+\
+
+<object class="cv-viewer" data="assets/pdf/cv_Gihun_Im.pdf#view=FitH" type="application/pdf" aria-label="Gihun Im's curriculum vitae">
+  <p>Your browser cannot display the PDF here. <a href="assets/pdf/cv_Gihun_Im.pdf">Open the CV as a PDF</a>.</p>
+</object>

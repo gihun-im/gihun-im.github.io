@@ -25,7 +25,7 @@ website:
       - text: Publications
         href: pubs.qmd
       - text: CV
-        href: assets/pdf/cv_Gihun_Im.pdf
+        href: cv.qmd
       - text: "EN / KO"
         menu:
           - text: English
