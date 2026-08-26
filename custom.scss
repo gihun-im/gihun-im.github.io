@@ -9,6 +9,18 @@ $link-hover-color: #54B98F !default;
 
 // Navbar
 
+// Match Quarto's measured fixed-navbar height from the first paint.
+body.nav-fixed {
+  padding-top: 78px;
+}
+
+// Reserve social-icon space before Iconify upgrades the custom elements.
+.navbar-nav iconify-icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+}
+
 .nav-footer a {
   text-decoration: none;
 }
