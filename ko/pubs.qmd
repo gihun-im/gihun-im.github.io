@@ -10,8 +10,10 @@ format:
 ---
 
 - 전체 연구 실적은 [Google Scholar](https://scholar.google.com/citations?user=TgdOb8MAAAAJ)에서도 확인할 수 있습니다.
-- 일부 논문의 게재 승인본은 [ResearchGate](https://www.researchgate.net/profile/Gihun-Im)에서 제공될 수 있습니다.
+- 일부 논문의 게재 승인본(accepted manuscript)은 [ResearchGate](https://www.researchgate.net/profile/Gihun-Im)에 업로드되어 있을 수 있습니다.
 - \[KCI\]는 [한국학술지인용색인](https://www.kci.go.kr/kciportal/main.kci)을 의미하며, 해당 논문이 한국어로 작성되었음을 나타냅니다.
+
+\
 
 ## 2026
 
@@ -29,10 +31,10 @@ Kim, J., Kang, S., **Im, G.**, & Kim, M. (under review). A systematic review and
 
 ## 2025
 
-Kim, D., **Im, G.**, Chung, G., & Park, J. (2025). Impact of discussion activity in international youth exchange programs on global citizenship: Mediating role of multicultural competence. *Journal of Education & Culture*, *31*(1), 597–613. [\[KCI\]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003179605)
+김동일, **임기훈**, 정건, & 박준영 (2025). 국제 청소년 교류 프로그램 토론 활동 참여 수준이 세계시민의식에 미치는 영향: 다문화 역량의 매개효과. *교육문화연구*, *31*(1), 597–613. [\[KCI\]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003179605)
 
-Kim, D., Park, J., & **Im, G.** (2025). Research on developing a social enrichment program for young adults with borderline intellectual functioning. *Disability & Employment*, *35*(1), 163–186. [\[KCI\]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003177743)
+김동일, 박준영, & **임기훈** (2025). 경계선 지능 청년을 위한 사회성 강화 프로그램 개발 연구. *장애와 고용*, *35*(1), 163–186. [\[KCI\]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003177743)
 
 ## 2023
 
-Kim, D., Park, J., Lee, J., Park, I., & **Im, G.** (2023). Exploring subjects of standardized curriculum for youth counselors in South Korea by Delphi method. *Studies on Korean Youth*, *34*(4), 143–164. <https://doi.org/10.14816/sky.2023.34.4.143> \[KCI\]
+김동일, 박준영, 이주영, 박인후, & **임기훈** (2023). 청소년상담사 양성을 위한 대학 표준교육과정의 영역 및 교과목 탐색: 델파이 조사를 중심으로. *한국청소년연구*, *34*(4), 143–164. <https://doi.org/10.14816/sky.2023.34.4.143> \[KCI\]
