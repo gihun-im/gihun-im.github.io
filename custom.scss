@@ -146,3 +146,30 @@ body {
     min-height: 28rem;
   }
 }
+
+// Lightweight outline pagination for project listings.
+.listing-pagination .page-link {
+  color: rgba(235, 235, 235, 0.55);
+  background-color: transparent;
+  border: 1px solid rgba(235, 235, 235, 0.55);
+}
+
+.listing-pagination .page-link:hover {
+  color: #70CCAE;
+  background-color: rgba(112, 204, 174, 0.1);
+  border-color: #70CCAE;
+}
+
+.listing-pagination .page-link:focus {
+  color: #70CCAE;
+  background-color: transparent;
+  border-color: #70CCAE;
+  box-shadow: none;
+}
+
+.listing-pagination .page-item.active .page-link {
+  color: #70CCAE;
+  background-color: transparent;
+  border-color: #70CCAE;
+  font-weight: 600;
+}
