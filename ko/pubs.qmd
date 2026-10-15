@@ -18,7 +18,7 @@ format:
 
 ## 2026
 
-Kim, I., **Im, G.**, Min, Y., & Ding, R. (in press). Greater mental health use and concern about generative AI among college students with anxiety-depression. *Journal of American College Health*. https://doi.org/10.1080/07448481.2026.2750845
+Kim, I., **Im, G.**, Min, Y., & Ding, R. (in press). Greater mental health use and concern about generative AI among college students with anxiety-depression. *Journal of American College Health*. <https://doi.org/10.1080/07448481.2026.2750845>
 
 **Im, G.**, & Kim, D. (in press). Korean school counselors' counseling competencies and advocacy activities for LGBTQ+ youth: A latent profile analysis. *Current Psychology*.
 
