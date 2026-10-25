@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/ko/projects.html",
+    "items": []
+  },
+  {
     "listing": "/projects.html",
     "items": [
       "/projects/Spencer/index.html",
@@ -7,12 +11,7 @@
       "/projects/client_genAI_use/index.html",
       "/projects/LGBTQ+ photovoice/index.html",
       "/projects/bereavement/index.html",
-      "/projects/LGBTQ+_COVID-19/index.html",
-      "/projects/PWT_decentedu/index.html"
+      "/projects/LGBTQ+_COVID-19/index.html"
     ]
-  },
-  {
-    "listing": "/ko/projects.html",
-    "items": []
   }
 ]
