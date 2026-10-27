@@ -20,7 +20,7 @@ format:
 
 Kim, I., **Im, G.**, Min, Y., & Ding, R. (in press). Greater mental health use and concern about generative AI among college students with anxiety-depression. *Journal of American College Health*. <https://doi.org/10.1080/07448481.2026.2750845>
 
-**Im, G.**, & Kim, D. (in press). Korean school counselors' counseling competencies and advocacy activities for LGBTQ+ youth: A latent profile analysis. *Current Psychology*.
+**Im, G.**, & Kim, D. (in press). Korean school counselors' counseling competencies and advocacy activities for LGBTQ+ youth: A latent profile analysis. *Current Psychology*, 45, Article 1660. <https://doi.org/10.1007/s12144-026-10221-6>
 
 **Im, G.** (2026). Ethical risk prevention in client generative artificial intelligence (genAI) use: Applying the primary risk-management model. *American Psychologist*, *81*(7), 1048–1059. <https://doi.org/10.1037/amp0001731>
 
