@@ -1,12 +1,3 @@
-- title: "청소년 회복탄력성을 위한 지역사회 기반 개입"
-  author: "Ongoing"
-  date: "2025-05"
-  description: "PI: Yinmayue Tang"
-  image: "../projects/CBI/youth.jpg"
-  image-alt: "청소년 회복탄력성을 위한 지역사회 기반 개입"
-  path: "../projects/CBI/index.html"
-  categories: [Community-Based Intervention, Resilience, Youth]
-
 - title: "한국 성소수자 교사의 경험: 포토보이스 연구"
   author: "Finished"
   date: "2025-07"
@@ -24,15 +15,6 @@
   image-alt: "코로나19 팬데믹 시기 성소수자의 소수자 스트레스 요인과 보호요인"
   path: "../projects/LGBTQ+_COVID-19/index.html"
   categories: [COVID-19, LGBTQ+, Minority Stress]
-
-- title: "괜찮은 일과 괜찮은 교육의 관계"
-  author: "Finished"
-  date: "2024-01"
-  description: "Co-PI: Ilhyun Bae & Gihun Im"
-  image: "../projects/PWT_decentedu/decentedu.png"
-  image-alt: "괜찮은 일과 괜찮은 교육의 관계"
-  path: "../projects/PWT_decentedu/index.html"
-  categories: [Career, PWT]
 
 - title: "지역사회 지원과 대학에서의 성공"
   author: "Ongoing"
