@@ -173,3 +173,8 @@ body {
   border-color: #70CCAE;
   font-weight: 600;
 }
+
+// De-emphasize manuscripts that are still under review.
+.under-review {
+  color: rgba(235, 235, 235, 0.55);
+}
